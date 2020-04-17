@@ -1,0 +1,936 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{1.25}
+\usepackage{fancyheadings}
+\pagestyle{fancy}
+\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - Jan-17-2020}}
+\usepackage{mathpazo}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.6in
+\rightmargin 0.75in
+\bottommargin 0.6in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace -2pt
+\end_inset
+
+
+\series bold
+\size large
+\noun on
+ashwin kumar k
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Contact
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -5pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+\emph on
+\begin_inset CommandInset href
+LatexCommand href
+name "ashwinkumar.k.rao@gmail.com"
+target "ashwinkumar.k.rao@gmail.com"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+, 
+\begin_inset CommandInset href
+LatexCommand href
+name "f20171034@goa.bits-pilani.ac.in "
+target "f20171034@goa.bits-pilani.ac.in "
+type "mailto:"
+literal "false"
+
+\end_inset
+
+,
+\begin_inset CommandInset href
+LatexCommand href
+name "ashwinschronicles.github.io"
+target "ashwinschronicles.github.io"
+literal "false"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -2pt
+\end_inset
+
+
+\series bold
+Education
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2022 bits - pilani university, kk birla goa campus
+\noun default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Int.
+ MSc.
+ Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7/10.0
+\emph default
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2017 vvs gj pu college, mysore - class 
+\begin_inset Formula $12^{th}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+\noun default
+KSEB Board.
+ Marks : Physics - 100%, Chemistry - 96 %, Mathematics 99%
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2015 demonstration school - class 
+\begin_inset Formula $10^{th}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+\noun default
+CBSE Board.
+ 9.8/10 CGPA
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ All India Rank in competitive examinations: NGPE- Top 30, KVPY-55, ComedK
+ - 113, KCET - 592 JEE Main - 13900 JEE ADV - 24000 .
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Interests
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Experimental condensed matter physics (Device Physics).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Interfacing sensors with microcontrollers (Arduino, Raspberry Pi,or other
+ equivalent platform), Power management, electrical drive system.
+ Instrument design.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -2pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Projects and Experiences
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -5pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Past Projects
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Simulation of IR seeker missiles and its counter measure in 
+\emph on
+Defence Avionics Research Establishment - DRDO, Bangalore, India
+\emph default
+.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Design of a cryogenic probe for transport measurements at 
+\emph on
+Superconductivity lab, NISER, Bhubaneswar, India.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Determination of temperature of stars by analysing images obtained from
+ a simple camera.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\series bold
+A Novel Stove Stand
+\series default
+: Designed and built an LPG Gas stove stand which harnessed the otherwise
+ wasted heat energy during cooking into electricity (about 20W).
+ It also reduced the cooking time.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\series bold
+Pressure sensitive mat:
+\series default
+ To make a mat that can sense touch enabling the determination of different
+ poses such as Running, Jumping, Rightward-leftward movement, one leg hop
+ etc..
+ ( Worked in electronics and algorithm design ).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Past electronics team member of 
+\series bold
+Hyperloop India
+\series default
+ and 
+\series bold
+Project Kratos
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ For more completed projects visit my web page, 
+\begin_inset CommandInset href
+LatexCommand href
+name "ashwinschronicles.github.io"
+target "ashwinschronicles.github.io"
+literal "false"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Ongoing Projects
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Design of a low cost thermal evaporation deposition system Design and
+ optimisation of a thermal evaporation coater unit.
+ (Project Head)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\series bold
+Open source IoT router
+\series default
+: Design of a completely open source IoT router hardware based on the RISC-V
+ ISA.
+ (Project Head) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\series bold
+Team Imitato:
+\series default
+ Designing an exosuit to control a humanoid that can be beneficial in reaching
+ in- accessible and non-human conditions.
+ ( Working as Electronics, Communication and Haptics Control head) 
+\begin_inset VSpace -5pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Honors and Awards
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 National top 30 in NGPE-19 exam (out of 11372 candidates).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 
+\begin_inset Formula $3^{rd}$
+\end_inset
+
+place in Open CBR Hackathon organised by University of Leeds.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 Presented a paper entitled 
+\begin_inset Quotes eld
+\end_inset
+
+Algorithms in ancient Indian Mathematics and Astronomy” at 
+\begin_inset Quotes eld
+\end_inset
+
+National Conference on Ancient Indian Knowledge: Science and Technology”,
+ NCERT, New Delhi.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 Awarded KVPY 2017 Fellowship.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 Offered INSPIRE 2017 Scholarship.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 Awarded ISCA Travel award by Infosys Foundation.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 Participated in 
+\begin_inset Formula $103^{rd}$
+\end_inset
+
+ Indian Science Congress held at Mysore, India.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 Participated in IRIS science fair organised by Intel at Delhi, India.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2016 Participated in Google science fair.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2015 Participated in Rashtriya Kishore Vaigyanik Sammelan of 
+\begin_inset Formula $102^{nd}$
+\end_inset
+
+ Indian Science Congress held at Mumbai, India.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2014 Participated in 
+\begin_inset Formula $41^{st}$
+\end_inset
+
+ Jawaharlal Nehru National Science Exhibition at Chandigarh (Presenting
+ the device stated as 
+\begin_inset Quotes eld
+\end_inset
+
+A Novel Stove Stand”).
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Articles and Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Review articles on scientific and hobbyist instruments on element14.com
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "“Gravitational waves really exist!”. Dream 2047 (Vigyanprasar),"
+target "http://vigyanprasar.gov.in/wp-content/uploads/dream-april-2016-eng.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Gravitational waves really exist!”.
+ Dream 2047 (Vigyanprasar), 18(7): 28–29, Apr.
+ 2016.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Relevant Coursework
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Physics : 
+\series default
+• Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
+ • Quantum Mechanics I&II • Non-Linear Dynamics • Nanotechnology and Nanosensors
+, Part1&2 - Israel Institute of Technology (Coursera) •Topology in Condensed
+ Matter: Tying Quantum Knots - DelftX University (edx) • Quantum Information
+ and Computing • Solid State Physics •Atomic and molecular Physics • Nuclear
+ and Particle Physics
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Electronics : 
+\series default
+• Microelectronics • Microprocessors and interfacing • Digital circuits
+ • Electric Machines • Specialistion on Semiconductor Devices - University
+ of Colorado Boulder (Coursera) •Introduction to Data Science in Python-Universi
+ty of Michigan (Coursera) • Signals and Systems • Controll Systems
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 30pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Computational Skills
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+• Shell • Python • Matlab •\SpecialChar LaTeX
+ • C++ • Verilog 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 30pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+List of Referees 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+Prof.
+ Kartikeswar Senapati
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+\noun default
+Reader F 
+\begin_inset Newline newline
+\end_inset
+
+School of Physical Sciences
+\begin_inset Newline newline
+\end_inset
+
+National Institute of Science Education and Research, 
+\begin_inset Newline newline
+\end_inset
+
+Bhubaneswar 
+\lang english
+–
+\lang american
+ 752050, Odisha, India.
+\begin_inset Newline newline
+\end_inset
+
+Email:
+\begin_inset CommandInset href
+LatexCommand href
+name " kartik@niser.ac.in"
+target "kartik@niser.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+Prof.
+ Ram Shanker Patel
+\noun default
+\lang english
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Associate Professor 
+\begin_inset Newline newline
+\end_inset
+
+Department of Physics
+\begin_inset Newline newline
+\end_inset
+
+Birla Institute of Technology and Science Pilani - K K Birla Goa Campus,
+\begin_inset Newline newline
+\end_inset
+
+Zuarinagar – 403726, Goa, India.
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "rsp@goa.bits-pilani.ac.in"
+target "rsp@goa.bits-pilani.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+\lang english
+Dr.
+ Dhavala Suri
+\noun default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Postdoctoral Associate
+\begin_inset Newline newline
+\end_inset
+
+Francis Bitter Magnet Laboratory & Plasma Science and Fusion Center,
+\begin_inset Newline newline
+\end_inset
+
+Massachusetts Institute of Technology, 
+\begin_inset Newline newline
+\end_inset
+
+Cambridge – 02139, Massachusetts, USA.
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "dmsuri@mit.edu"
+target "dmsuri@mit.edu"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
