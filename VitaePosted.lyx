@@ -448,6 +448,11 @@ literal "false"
  
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\end_layout
+
 \begin_layout Standard
 
 \series bold

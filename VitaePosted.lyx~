@@ -12,7 +12,7 @@
 \renewcommand{\arraystretch}{1.25}
 \usepackage{fancyheadings}
 \pagestyle{fancy}
-\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - Jan-17-2020}}
+\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - April-17-2020}}
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
@@ -393,8 +393,8 @@ Superconductivity lab, NISER, Bhubaneswar, India.
 \series bold
 A Novel Stove Stand
 \series default
-: Designed and built an LPG Gas stove stand which harnessed the otherwise
- wasted heat energy during cooking into electricity (about 20W).
+: Designed and built a contraption to harness electricity (about 20W) from
+ the otherwise wasted heat energy produced while burning LPG gas for cooking.
  It also reduced the cooking time.
  
 \end_layout
@@ -461,7 +461,7 @@ Ongoing Projects
 
  •Design of a low cost thermal evaporation deposition system Design and
  optimisation of a thermal evaporation coater unit.
- (Project Head)
+ (As the project head)
 \end_layout
 
 \begin_layout Labeling
@@ -475,7 +475,7 @@ Open source IoT router
 \series default
 : Design of a completely open source IoT router hardware based on the RISC-V
  ISA.
- (Project Head) 
+ (As the project head) 
 \end_layout
 
 \begin_layout Labeling
