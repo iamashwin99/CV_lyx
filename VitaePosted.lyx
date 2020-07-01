@@ -12,7 +12,7 @@
 \renewcommand{\arraystretch}{1.25}
 \usepackage{fancyheadings}
 \pagestyle{fancy}
-\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - April-17-2020}}
+\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - July-1-2020}}
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
@@ -350,6 +350,20 @@ height "1pt"
 
 \series bold
 Past Projects
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Design and Simulation of Battery Management System Algorithms for Electric
+ Vehicle Applications.
+ 
+\emph on
+Kaynes Technology India Pvt Limited, Mysore, India
+\emph default
+.
 \end_layout
 
 \begin_layout Labeling
