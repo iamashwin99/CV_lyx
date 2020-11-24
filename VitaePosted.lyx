@@ -12,7 +12,7 @@
 \renewcommand{\arraystretch}{1.25}
 \usepackage{fancyheadings}
 \pagestyle{fancy}
-\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - July-1-2020}}
+\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - Nov-24-2020}}
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
@@ -699,6 +699,25 @@ Gravitational waves really exist!”.
 \begin_layout Standard
 
 \series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 Relevant Coursework
 \series default
 
@@ -734,7 +753,7 @@ Physics :
 , Part1&2 - Israel Institute of Technology (Coursera) •Topology in Condensed
  Matter: Tying Quantum Knots - DelftX University (edx) • Quantum Information
  and Computing • Solid State Physics •Atomic and molecular Physics • Nuclear
- and Particle Physics
+ and Particle Physics • Quantum Information Theory 
 \end_layout
 
 \begin_layout Standard
@@ -743,9 +762,12 @@ Physics :
 Electronics : 
 \series default
 • Microelectronics • Microprocessors and interfacing • Digital circuits
- • Electric Machines • Specialistion on Semiconductor Devices - University
+ • Electric Machines • Specialisation on Semiconductor Devices - University
  of Colorado Boulder (Coursera) •Introduction to Data Science in Python-Universi
-ty of Michigan (Coursera) • Signals and Systems • Controll Systems
+ty of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
+ Image Processing • Modern Control Systems • Analog and Digital VLSI design
+ • Transducers and measurement techniques • Electronics instruments & instrument
+ation technology
 \end_layout
 
 \begin_layout Standard
@@ -926,15 +948,11 @@ Postdoctoral Associate
 \begin_inset Newline newline
 \end_inset
 
-Francis Bitter Magnet Laboratory & Plasma Science and Fusion Center,
+TIFR Hyderabad,
 \begin_inset Newline newline
 \end_inset
 
-Massachusetts Institute of Technology, 
-\begin_inset Newline newline
-\end_inset
-
-Cambridge – 02139, Massachusetts, USA.
+Hyderabad – 500046, Telangana, India
 \begin_inset Newline newline
 \end_inset
 
