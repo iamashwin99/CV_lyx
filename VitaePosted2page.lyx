@@ -12,7 +12,7 @@
 \renewcommand{\arraystretch}{1.25}
 \usepackage{fancyheadings}
 \pagestyle{fancy}
-\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - Nov-24-2020}}
+\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - April-30-2020}}
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
@@ -38,10 +38,10 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize 11
+\paperfontsize 10
 \spacing single
 \use_hyperref false
-\papersize letterpaper
+\papersize a4paper
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 2
@@ -67,9 +67,9 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 0.75in
+\leftmargin 0.6in
 \topmargin 0.6in
-\rightmargin 0.75in
+\rightmargin 0.6in
 \bottommargin 0.6in
 \secnumdepth 3
 \tocdepth 3
@@ -212,7 +212,7 @@ height "1pt"
 \emph on
 Int.
  MSc.
- Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7/10.0
+ Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.19/10.0
 \emph default
  
 \end_layout
@@ -364,6 +364,11 @@ Past Projects
 Kaynes Technology India Pvt Limited, Mysore, India
 \emph default
 .
+
+\lang english
+ 
+\series bold
+Summer 2020
 \end_layout
 
 \begin_layout Labeling
@@ -376,6 +381,10 @@ Kaynes Technology India Pvt Limited, Mysore, India
 Defence Avionics Research Establishment - DRDO, Bangalore, India
 \emph default
 .
+ 
+\series bold
+\lang english
+Summer 2019
 \end_layout
 
 \begin_layout Labeling
@@ -386,6 +395,11 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
  •Design of a cryogenic probe for transport measurements at 
 \emph on
 Superconductivity lab, NISER, Bhubaneswar, India.
+ 
+\series bold
+\emph default
+\lang english
+Summer 2019
 \end_layout
 
 \begin_layout Labeling
@@ -462,8 +476,21 @@ literal "false"
  
 \end_layout
 
-\begin_layout Labeling
-\labelwidthstring MMMMM
+\begin_layout Standard
+
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -699,86 +726,6 @@ Gravitational waves really exist!”.
 \begin_layout Standard
 
 \series bold
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Relevant Coursework
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Physics : 
-\series default
-• Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
- • Quantum Mechanics I&II • Non-Linear Dynamics • Nanotechnology and Nanosensors
-, Part1&2 - Israel Institute of Technology (Coursera) •Topology in Condensed
- Matter: Tying Quantum Knots - DelftX University (edx) • Quantum Information
- and Computing • Solid State Physics •Atomic and molecular Physics • Nuclear
- and Particle Physics • Quantum Information Theory 
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Electronics : 
-\series default
-• Microelectronics • Microprocessors and interfacing • Digital circuits
- • Electric Machines • Specialisation on Semiconductor Devices - University
- of Colorado Boulder (Coursera) •Introduction to Data Science in Python-Universi
-ty of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
- Image Processing • Modern Control Systems • Analog and Digital VLSI design
- • Transducers and measurement techniques • Electronics instruments & instrument
-ation technology
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace 30pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
 Computational Skills
 \series default
 
@@ -806,166 +753,7 @@ height "1pt"
 
 \begin_layout Standard
 • Shell • Python • Matlab •\SpecialChar LaTeX
- • C++ • Verilog • JavaScript 
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace 30pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-List of Referees 
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-Prof.
- Kartikeswar Senapati
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-\noun default
-Reader F 
-\begin_inset Newline newline
-\end_inset
-
-School of Physical Sciences
-\begin_inset Newline newline
-\end_inset
-
-National Institute of Science Education and Research, 
-\begin_inset Newline newline
-\end_inset
-
-Bhubaneswar 
-\lang english
-–
-\lang american
- 752050, Odisha, India.
-\begin_inset Newline newline
-\end_inset
-
-Email:
-\begin_inset CommandInset href
-LatexCommand href
-name " kartik@niser.ac.in"
-target "kartik@niser.ac.in"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-Prof.
- Ram Shanker Patel
-\noun default
-\lang english
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Associate Professor 
-\begin_inset Newline newline
-\end_inset
-
-Department of Physics
-\begin_inset Newline newline
-\end_inset
-
-Birla Institute of Technology and Science Pilani - K K Birla Goa Campus,
-\begin_inset Newline newline
-\end_inset
-
-Zuarinagar – 403726, Goa, India.
-\begin_inset Newline newline
-\end_inset
-
-Email: 
-\begin_inset CommandInset href
-LatexCommand href
-name "rsp@goa.bits-pilani.ac.in"
-target "rsp@goa.bits-pilani.ac.in"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-\lang english
-Dr.
- Dhavala Suri
-\noun default
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Postdoctoral Associate
-\begin_inset Newline newline
-\end_inset
-
-TIFR Hyderabad,
-\begin_inset Newline newline
-\end_inset
-
-Hyderabad – 500046, Telangana, India
-\begin_inset Newline newline
-\end_inset
-
-Email: 
-\begin_inset CommandInset href
-LatexCommand href
-name "dmsuri@mit.edu"
-target "dmsuri@mit.edu"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
+ • C++ • Verilog • JavaScript • LabVIEW •Solidty
 \end_layout
 
 \end_body

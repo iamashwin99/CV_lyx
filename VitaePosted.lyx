@@ -704,7 +704,6 @@ status open
 
 \begin_layout Plain Layout
 
-\series bold
 
 \backslash
 newpage
@@ -807,7 +806,7 @@ height "1pt"
 
 \begin_layout Standard
 • Shell • Python • Matlab •\SpecialChar LaTeX
- • C++ • Verilog 
+ • C++ • Verilog • JavaScript • LabVIEW
 \end_layout
 
 \begin_layout Standard
