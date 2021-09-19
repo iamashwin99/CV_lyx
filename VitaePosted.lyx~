@@ -311,6 +311,14 @@ height "1pt"
  Instrument design.
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Solving real-world problems using Distributed Ledger Technology
+\end_layout
+
 \begin_layout Standard
 \begin_inset VSpace -2pt
 \end_inset
@@ -806,7 +814,7 @@ height "1pt"
 
 \begin_layout Standard
 • Shell • Python • Matlab •\SpecialChar LaTeX
- • C++ • Verilog • JavaScript 
+ • C++ • Verilog • JavaScript • LabVIEW
 \end_layout
 
 \begin_layout Standard

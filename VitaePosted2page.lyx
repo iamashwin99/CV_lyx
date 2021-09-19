@@ -311,6 +311,14 @@ height "1pt"
  Instrument design.
 \end_layout
 
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Solving real-world problems using Distributed Ledger Technology
+\end_layout
+
 \begin_layout Standard
 \begin_inset VSpace -2pt
 \end_inset
@@ -508,20 +516,6 @@ Ongoing Projects
  •Design of a low cost thermal evaporation deposition system Design and
  optimisation of a thermal evaporation coater unit.
  (As the project head)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •
-\series bold
-Open source IoT router
-\series default
-: Design of a completely open source IoT router hardware based on the RISC-V
- ISA.
- (As the project head) 
 \end_layout
 
 \begin_layout Labeling
