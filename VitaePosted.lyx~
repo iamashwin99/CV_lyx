@@ -838,9 +838,10 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Shell • Python (automation and datanalytics) • LabVIEW • Matlab • JavaScript
- •\SpecialChar LaTeX
- • C++ • Verilog 
+: • Shell • Python (automation and data analysis) • LabVIEW • Matlab • JavaScrip
+t •\SpecialChar LaTeX
+ • C++ •Git • Verilog • 3D CAD modeling (Fusion 360) • PCB Design (Eagle
+ CAD)
 \end_layout
 
 \begin_layout Standard
