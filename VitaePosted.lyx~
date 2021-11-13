@@ -12,7 +12,7 @@
 \renewcommand{\arraystretch}{1.25}
 \usepackage{fancyheadings}
 \pagestyle{fancy}
-\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - Nov-24-2020}}
+\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - \today} }
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
@@ -212,7 +212,7 @@ height "1pt"
 \emph on
 Int.
  MSc.
- Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7/10.0
+ Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.2/10.0
 \emph default
  
 \end_layout
@@ -260,8 +260,8 @@ CBSE Board.
 \begin_inset space ~
 \end_inset
 
- All India Rank in competitive examinations: NGPE- Top 30, KVPY-55, ComedK
- - 113, KCET - 592 JEE Main - 13900 JEE ADV - 24000 .
+ All India Rank in competitive examinations: TOEFL (score) 106/120, NGPE-
+ Top 30, KVPY-55, ComedK - 113, KCET - 592.
  
 \end_layout
 
@@ -307,8 +307,8 @@ height "1pt"
 \end_inset
 
  Interfacing sensors with microcontrollers (Arduino, Raspberry Pi,or other
- equivalent platform), Power management, electrical drive system.
- Instrument design.
+ equivalent platform), Power management, electrical drive system, Instrument
+ design.
 \end_layout
 
 \begin_layout Labeling
@@ -316,7 +316,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Solving real-world problems using Distributed Ledger Technology
+ Solving real-world problems using Distributed Ledger Technology.
 \end_layout
 
 \begin_layout Standard
@@ -365,7 +365,17 @@ Past Projects
 \begin_inset space ~
 \end_inset
 
- •Design and Simulation of Battery Management System Algorithms for Electric
+ • Design of a cryogenic probe for transport measurements at 
+\emph on
+Superconductivity lab, NISER, Bhubaneswar, India.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ • Design and Simulation of Battery Management System Algorithms for Electric
  Vehicle Applications.
  
 \emph on
@@ -379,7 +389,7 @@ Kaynes Technology India Pvt Limited, Mysore, India
 \begin_inset space ~
 \end_inset
 
- •Simulation of IR seeker missiles and its counter measure in 
+ • Simulation of IR seeker missiles and its counter measure in 
 \emph on
 Defence Avionics Research Establishment - DRDO, Bangalore, India
 \emph default
@@ -391,17 +401,7 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- •Design of a cryogenic probe for transport measurements at 
-\emph on
-Superconductivity lab, NISER, Bhubaneswar, India.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •Determination of temperature of stars by analysing images obtained from
+ • Determination of temperature of stars by analysing images obtained from
  a simple camera.
  
 \end_layout
@@ -413,7 +413,7 @@ Superconductivity lab, NISER, Bhubaneswar, India.
 
  •
 \series bold
-A Novel Stove Stand
+ A Novel Stove Stand
 \series default
 : Designed and built a contraption to harness electricity (about 20W) from
  the otherwise wasted heat energy produced while burning LPG gas for cooking.
@@ -428,11 +428,10 @@ A Novel Stove Stand
 
  •
 \series bold
-Pressure sensitive mat:
+ Pressure sensitive mat:
 \series default
- To make a mat that can sense touch enabling the determination of different
- poses such as Running, Jumping, Rightward-leftward movement, one leg hop
- etc..
+ A mat that can sense touch, enabling the determination of different poses
+ such as Running, Jumping, Rightward-leftward movement, one leg hop etc..
  ( Worked in electronics and algorithm design ).
 \end_layout
 
@@ -441,7 +440,7 @@ Pressure sensitive mat:
 \begin_inset space ~
 \end_inset
 
- •Past electronics team member of 
+ • Past electronics team member of 
 \series bold
 Hyperloop India
 \series default
@@ -486,9 +485,10 @@ Ongoing Projects
 \begin_inset space ~
 \end_inset
 
- •Design of a low cost thermal evaporation deposition system Design and
- optimisation of a thermal evaporation coater unit.
- (As the project head)
+ • Studying the effect of high spin orbit coupling material in Josephson
+ Junctions, at 
+\emph on
+Superconductivity lab, NISER, Bhubaneswar, India.
 \end_layout
 
 \begin_layout Labeling
@@ -498,11 +498,11 @@ Ongoing Projects
 
  •
 \series bold
-Open source IoT router
+ GrayBlock Power:
 \series default
-: Design of a completely open source IoT router hardware based on the RISC-V
- ISA.
- (As the project head) 
+ Decentralized financing of energy projects via smart contracts written
+ on public blockchains.
+ (Working as project coordinator)
 \end_layout
 
 \begin_layout Labeling
@@ -512,10 +512,10 @@ Open source IoT router
 
  •
 \series bold
-Team Imitato:
+ Team Imitato:
 \series default
  Designing an exosuit to control a humanoid that can be beneficial in reaching
- in- accessible and non-human conditions.
+ in-accessible and non-human conditions.
  ( Working as Electronics, Communication and Haptics Control head) 
 \begin_inset VSpace -5pt
 \end_inset
@@ -563,7 +563,11 @@ height "1pt"
 \begin_inset Formula $3^{rd}$
 \end_inset
 
-place in Open CBR Hackathon organised by University of Leeds.
+place in Open CBR Hackathon 
+\emph on
+organised by University of Leeds
+\emph default
+.
 \end_layout
 
 \begin_layout Labeling
@@ -577,25 +581,44 @@ Algorithms in ancient Indian Mathematics and Astronomy” at
 \end_inset
 
 National Conference on Ancient Indian Knowledge: Science and Technology”,
- NCERT, New Delhi.
+ 
+\emph on
+National Council of Educational Research and Training, New Delhi
+\emph default
+.
  
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018 Awarded KVPY 2017 Fellowship.
+2018 Awarded Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 Fellowship by
+\emph on
+ Govt.
+ of India
+\emph default
+.
  
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2018 Offered INSPIRE 2017 Scholarship.
+2018 Offered Innovation in Science Pursuit for Inspired Research (INSPIRE)
+ 2017 Scholarship by
+\emph on
+ Govt.
+ of India
+\emph default
+.
  
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2016 Awarded ISCA Travel award by Infosys Foundation.
+2016 Awarded ISCA Travel award by 
+\emph on
+Infosys Foundation
+\emph default
+.
  
 \end_layout
 
@@ -611,13 +634,11 @@ National Conference on Ancient Indian Knowledge: Science and Technology”,
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2016 Participated in IRIS science fair organised by Intel at Delhi, India.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2016 Participated in Google science fair.
- 
+2016 Participated in IRIS science fair organised by 
+\emph on
+Intel
+\emph default
+ at Delhi, India.
 \end_layout
 
 \begin_layout Labeling
@@ -787,7 +808,7 @@ ation technology
 \begin_layout Standard
 
 \series bold
-Computational Skills
+Skills
 \series default
 
 \begin_inset Newline newline
@@ -813,8 +834,22 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-• Shell • Python • Matlab •\SpecialChar LaTeX
- • C++ • Verilog • JavaScript • LabVIEW
+
+\series bold
+Computational
+\series default
+: • Shell • Python (automation and datanalytics) • LabVIEW • Matlab • JavaScript
+ •\SpecialChar LaTeX
+ • C++ • Verilog 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Instrumentation: 
+\series default
+• Photolithography • DC Magnetron sputtering • Physical Property Measurement
+ System (DCR and VSM) 
 \end_layout
 
 \begin_layout Standard
@@ -951,23 +986,23 @@ Dr.
 
 
 \emph on
-Postdoctoral Associate
+Postdoctoral Scientist
 \begin_inset Newline newline
 \end_inset
 
-TIFR Hyderabad,
+Technische Universität München,
 \begin_inset Newline newline
 \end_inset
 
-Hyderabad – 500046, Telangana, India
+Garching, 85748, Germany
 \begin_inset Newline newline
 \end_inset
 
 Email: 
 \begin_inset CommandInset href
 LatexCommand href
-name "dmsuri@mit.edu"
-target "dmsuri@mit.edu"
+name "d.suri@tum.de"
+target "d.suri@tum.de"
 type "mailto:"
 literal "false"
 
