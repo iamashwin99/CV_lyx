@@ -212,7 +212,7 @@ height "1pt"
 \emph on
 Int.
  MSc.
- Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.2/10.0
+ Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.5/10.0
 \emph default
  
 \end_layout
@@ -774,28 +774,32 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
-Physics : 
+Physics
 \series default
-• Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
- • Quantum Mechanics I&II • Non-Linear Dynamics • Nanotechnology and Nanosensors
-, Part1&2 - Israel Institute of Technology (Coursera) •Topology in Condensed
- Matter: Tying Quantum Knots - DelftX University (edx) • Quantum Information
- and Computing • Solid State Physics •Atomic and molecular Physics • Nuclear
+ : •Computational Physics •Masters thesis on fabrication and characterization
+ of Josephson junctions •An introduction to DFT • Electromagnetic theory
+ I&II • Classical Mechanics • Statistical Mechanics • Quantum Mechanics
+ I&II • Non-Linear Dynamics • Nanotechnology and Nanosensors, Part1&2 -
+ Israel Institute of Technology (Coursera) •Topology in Condensed Matter:
+ Tying Quantum Knots - DelftX University (edx) • Quantum Information and
+ Computing • Solid State Physics •Atomic and molecular Physics • Nuclear
  and Particle Physics • Quantum Information Theory 
 \end_layout
 
 \begin_layout Standard
 
 \series bold
-Electronics : 
+Electronics
 \series default
-• Microelectronics • Microprocessors and interfacing • Digital circuits
- • Electric Machines • Specialisation on Semiconductor Devices - University
- of Colorado Boulder (Coursera) •Introduction to Data Science in Python-Universi
-ty of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
- Image Processing • Modern Control Systems • Analog and Digital VLSI design
- • Transducers and measurement techniques • Electronics instruments & instrument
-ation technology
+ : • Object Oriented Programming • Introduction to High-Performance and
+ Parallel Computing - University of Colorado Boulder (Coursera)• Introduction
+ to Data Science in Python-University of Michigan (Coursera) • Microelectronics
+ • Microprocessors and interfacing • Digital circuits • Electric Machines
+ • Specialisation on Semiconductor Devices - University of Colorado Boulder
+ (Coursera) • Signals and Systems • Control Systems • Digital Image Processing
+ • Modern Control Systems • Analog and Digital VLSI design • Transducers
+ and measurement techniques • Electronics instruments & instrumentation
+ technology 
 \end_layout
 
 \begin_layout Standard
