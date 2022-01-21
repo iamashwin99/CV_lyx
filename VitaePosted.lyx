@@ -895,39 +895,33 @@ height "1pt"
 \begin_layout Enumerate
 
 \noun on
-Prof.
- Kartikeswar Senapati
+\lang english
+Dr.
+ Dhavala Suri
+\noun default
+ 
 \begin_inset Newline newline
 \end_inset
 
 
 \emph on
-\noun default
-Reader F 
+Postdoctoral Scientist
 \begin_inset Newline newline
 \end_inset
 
-School of Physical Sciences
+Technische Universität München,
 \begin_inset Newline newline
 \end_inset
 
-National Institute of Science Education and Research, 
+Garching, 85748, Germany
 \begin_inset Newline newline
 \end_inset
 
-Bhubaneswar 
-\lang english
-–
-\lang american
- 752050, Odisha, India.
-\begin_inset Newline newline
-\end_inset
-
-Email:
+Email: 
 \begin_inset CommandInset href
 LatexCommand href
-name " kartik@niser.ac.in"
-target "kartik@niser.ac.in"
+name "d.suri@tum.de"
+target "d.suri@tum.de"
 type "mailto:"
 literal "false"
 
@@ -981,33 +975,39 @@ literal "false"
 \begin_layout Enumerate
 
 \noun on
-\lang english
-Dr.
- Dhavala Suri
-\noun default
- 
+Prof.
+ Kartikeswar Senapati
 \begin_inset Newline newline
 \end_inset
 
 
 \emph on
-Postdoctoral Scientist
+\noun default
+Reader F 
 \begin_inset Newline newline
 \end_inset
 
-Technische Universität München,
+School of Physical Sciences
 \begin_inset Newline newline
 \end_inset
 
-Garching, 85748, Germany
+National Institute of Science Education and Research, 
 \begin_inset Newline newline
 \end_inset
 
-Email: 
+Bhubaneswar 
+\lang english
+–
+\lang american
+ 752050, Odisha, India.
+\begin_inset Newline newline
+\end_inset
+
+Email:
 \begin_inset CommandInset href
 LatexCommand href
-name "d.suri@tum.de"
-target "d.suri@tum.de"
+name " kartik@niser.ac.in"
+target "kartik@niser.ac.in"
 type "mailto:"
 literal "false"
 
