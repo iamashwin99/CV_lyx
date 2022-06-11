@@ -12,7 +12,7 @@
 \renewcommand{\arraystretch}{1.25}
 \usepackage{fancyheadings}
 \pagestyle{fancy}
-\chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - April-30-2020}}
+\chead{\textit{Ashwin Kumar K. - Curriculum Vitae · Last updated - \today}}
 \usepackage{mathpazo}
 \end_preamble
 \use_default_options false
@@ -100,7 +100,7 @@
 \series bold
 \size large
 \noun on
-ashwin kumar k
+ashwin kumar karnad
 \end_layout
 
 \begin_layout Standard
@@ -212,7 +212,7 @@ height "1pt"
 \emph on
 Int.
  MSc.
- Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.19/10.0
+ Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.71/10.0
 \emph default
  
 \end_layout
@@ -748,6 +748,158 @@ height "1pt"
 \begin_layout Standard
 • Shell • Python • Matlab •\SpecialChar LaTeX
  • C++ • Verilog • JavaScript • LabVIEW •Solidty
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+List of Referees 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+Prof.
+ Kartikeswar Senapati
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+\noun default
+Reader F 
+\begin_inset Newline newline
+\end_inset
+
+School of Physical Sciences
+\begin_inset Newline newline
+\end_inset
+
+National Institute of Science Education and Research, 
+\begin_inset Newline newline
+\end_inset
+
+Bhubaneswar 
+\lang english
+–
+\lang american
+ 752050, Odisha, India.
+\begin_inset Newline newline
+\end_inset
+
+Email:
+\begin_inset CommandInset href
+LatexCommand href
+name " kartik@niser.ac.in"
+target "kartik@niser.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+Prof.
+ Ram Shanker Patel
+\noun default
+\lang english
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Associate Professor 
+\begin_inset Newline newline
+\end_inset
+
+Department of Physics
+\begin_inset Newline newline
+\end_inset
+
+Birla Institute of Technology and Science Pilani - K K Birla Goa Campus,
+\begin_inset Newline newline
+\end_inset
+
+Zuarinagar – 403726, Goa, India.
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "rsp@goa.bits-pilani.ac.in"
+target "rsp@goa.bits-pilani.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+\lang english
+Dr.
+ Dhavala Suri
+\noun default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Postdoctoral Scientist
+\begin_inset Newline newline
+\end_inset
+
+Technische Universität München,
+\begin_inset Newline newline
+\end_inset
+
+Garching, 85748, Germany
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "d.suri@tum.de"
+target "d.suri@tum.de"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
