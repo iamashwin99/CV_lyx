@@ -527,7 +527,8 @@ Ongoing Projects
 \series bold
  comfybike.de:
 \series default
- 
+ A simple and smart app that helps you find the optimal saddle height for
+ your bike using image detection.
 \end_layout
 
 \begin_layout Labeling
@@ -564,6 +565,18 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 1st place, Rad-Daten-Hackathon: worked on comfybike.de an app to suggest
+ optimal saddle height for your bike using image detection.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022 1st place, COMPAR EU hackathon: Created an AI-based solution for a
+ data platform which helps patients manage their serious chronic illness.
 \end_layout
 
 \begin_layout Labeling
