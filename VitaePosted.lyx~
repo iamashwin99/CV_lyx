@@ -138,8 +138,8 @@ height "1pt"
 \emph on
 \begin_inset CommandInset href
 LatexCommand href
-name "ashwinkumar.k.rao@gmail.com"
-target "ashwinkumar.k.rao@gmail.com"
+name "ashwin-kumar.karnad@mpsd.mpg.de"
+target "ashwin-kumar.karnad@mpsd.mpg.de"
 type "mailto:"
 literal "false"
 
@@ -148,8 +148,8 @@ literal "false"
 , 
 \begin_inset CommandInset href
 LatexCommand href
-name "f20171034@goa.bits-pilani.ac.in "
-target "f20171034@goa.bits-pilani.ac.in "
+name "ashwinkumar.k.rao@gmail.com"
+target "ashwinkumar.k.rao@gmail.com"
 type "mailto:"
 literal "false"
 
@@ -306,9 +306,8 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Interfacing sensors with microcontrollers (Arduino, Raspberry Pi,or other
- equivalent platform), Power management, electrical drive system, Instrument
- design.
+ Interfacing sensors with microcontrollers, Power management, electrical
+ drive system, Instrument design.
 \end_layout
 
 \begin_layout Labeling
@@ -329,7 +328,7 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
-Projects and Experiences
+Personal Projects and Experiences
 \series default
 
 \begin_inset Newline newline
@@ -358,6 +357,17 @@ height "1pt"
 
 \series bold
 Past Projects
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ • Studying the effect of high spin orbit coupling material in Josephson
+ Junctions, at 
+\emph on
+Superconductivity lab, NISER, Bhubaneswar, India.
 \end_layout
 
 \begin_layout Labeling
@@ -394,6 +404,34 @@ Kaynes Technology India Pvt Limited, Mysore, India
 Defence Avionics Research Establishment - DRDO, Bangalore, India
 \emph default
 .
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\series bold
+ GrayBlock Power:
+\series default
+ Decentralized financing of energy projects via smart contracts written
+ on public blockchains.
+ (worrked as software developer and project coordinator)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\series bold
+ Team Imitato:
+\series default
+ Designing an exosuit to control a humanoid that can be beneficial in reaching
+ in-accessible and non-human conditions.
+ (Worked as Electronics, Communication and Haptics Control head) 
 \end_layout
 
 \begin_layout Labeling
@@ -485,38 +523,15 @@ Ongoing Projects
 \begin_inset space ~
 \end_inset
 
- • Studying the effect of high spin orbit coupling material in Josephson
- Junctions, at 
-\emph on
-Superconductivity lab, NISER, Bhubaneswar, India.
+ •
+\series bold
+ comfybike.de:
+\series default
+ 
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •
-\series bold
- GrayBlock Power:
-\series default
- Decentralized financing of energy projects via smart contracts written
- on public blockchains.
- (Working as project coordinator)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •
-\series bold
- Team Imitato:
-\series default
- Designing an exosuit to control a humanoid that can be beneficial in reaching
- in-accessible and non-human conditions.
- ( Working as Electronics, Communication and Haptics Control head) 
 \begin_inset VSpace -5pt
 \end_inset
 
@@ -795,7 +810,8 @@ Electronics :
 ty of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
  Image Processing • Modern Control Systems • Analog and Digital VLSI design
  • Transducers and measurement techniques • Electronics instruments & instrument
-ation technology
+ation technology • Object Oriented Programming • Introduction to High-Performanc
+e and Parallel Computing - University of Colorado Boulder (Coursera)
 \end_layout
 
 \begin_layout Standard
