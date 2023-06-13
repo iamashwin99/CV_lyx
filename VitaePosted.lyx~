@@ -298,24 +298,16 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Experimental condensed matter physics (Device Physics).
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
+ - Experimental condensed matter physics (Device Physics).
+\begin_inset Newline newline
 \end_inset
 
- Interfacing sensors with microcontrollers, Power management, electrical
+- Interfacing sensors with microcontrollers, Power management, electrical
  drive system, Instrument design.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
+\begin_inset Newline newline
 \end_inset
 
- Solving real-world problems using Distributed Ledger Technology.
+- Solving real-world problems using Distributed Ledger Technology.
 \end_layout
 
 \begin_layout Standard
@@ -328,7 +320,54 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
-Personal Projects and Experiences
+Relevant Work Experience
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022-23 
+\emph on
+Research Software Engineer
+\emph default
+, 
+\noun on
+MPI for the Structure and Dynamics of Matter
+\noun default
+, Hamburg.
+\begin_inset Newline newline
+\end_inset
+
+Worked on Computational Scientific support, HPC codes and infrastructure
+ maintanance, Postopus: a python package for POSTprocessing of OctoPUS simulatio
+ns.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Projects and Experiences
 \series default
 
 \begin_inset Newline newline
@@ -581,7 +620,8 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2019 National top 30 in NGPE-19 exam (out of 11372 candidates).
+2019 National top 30 in NGPE-19 exam (Graduate physics exam with 11372 candidate
+s).
  
 \end_layout
 
@@ -726,7 +766,17 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- Review articles on scientific and hobbyist instruments on element14.com
+ •
+\begin_inset CommandInset href
+LatexCommand href
+name "Phase biasing of a Josephson junction using Rashba-Edelstein effect. "
+target "https://doi.org/10.48550/ARXIV.2304.11457"
+literal "false"
+
+\end_inset
+
+Senapati, T., Karnad, A.
+ & Senapati, K.
 \end_layout
 
 \begin_layout Labeling
@@ -734,7 +784,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- 
+ •
 \begin_inset CommandInset href
 LatexCommand href
 name "“Gravitational waves really exist!”. Dream 2047 (Vigyanprasar),"
@@ -743,14 +793,17 @@ literal "false"
 
 \end_inset
 
-
-\begin_inset Quotes eld
-\end_inset
-
-Gravitational waves really exist!”.
- Dream 2047 (Vigyanprasar), 18(7): 28–29, Apr.
+, 18(7): 28–29, Apr.
  2016.
  
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Review articles on scientific and hobbyist instruments on element14.com
 \end_layout
 
 \begin_layout Standard
@@ -867,10 +920,9 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Shell • Python (automation and data analysis) • LabVIEW • Matlab • JavaScrip
-t •\SpecialChar LaTeX
- • C++ • Git • Verilog • 3D CAD modeling (Fusion 360) • PCB Design (Eagle
- CAD)
+: • Shell • Python • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
+ • C++ • Git • Verilog
+ • 3D CAD modeling (Onshape,Fusion 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
