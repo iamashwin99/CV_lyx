@@ -100,7 +100,7 @@
 \series bold
 \size large
 \noun on
-ashwin kumar k
+ashwin kumar karnad
 \end_layout
 
 \begin_layout Standard
@@ -155,7 +155,7 @@ literal "false"
 
 \end_inset
 
-, 
+, Blog: 
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwinschronicles.github.io"
@@ -564,7 +564,16 @@ Ongoing Projects
 
  •
 \series bold
- comfybike.de:
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "comfybikes.de"
+target "https://comfybikes.de/"
+literal "false"
+
+\end_inset
+
+:
 \series default
  A simple and smart app that helps you find the optimal saddle height for
  your bike using image detection.
@@ -576,6 +585,83 @@ Ongoing Projects
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Articles and Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\begin_inset CommandInset href
+LatexCommand href
+name "Phase biasing of a Josephson junction using Rashba-Edelstein effect. "
+target "https://doi.org/10.48550/ARXIV.2304.11457"
+literal "false"
+
+\end_inset
+
+Senapati, T., 
+\series bold
+Karnad, A
+\series default
+.
+ & Senapati, K.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •
+\begin_inset CommandInset href
+LatexCommand href
+name "“Gravitational waves really exist!”. Dream 2047 (Vigyanprasar),"
+target "http://vigyanprasar.gov.in/wp-content/uploads/dream-april-2016-eng.pdf"
+literal "false"
+
+\end_inset
+
+, 18(7): 28–29, Apr.
+ 2016.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ •Review articles on scientific and hobbyist instruments on element14.com
 \end_layout
 
 \begin_layout Standard
@@ -608,8 +694,16 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2023 1st place, Rad-Daten-Hackathon: worked on comfybike.de an app to suggest
- optimal saddle height for your bike using image detection.
+2023 1st place, Rad-Daten-Hackathon: worked on 
+\begin_inset CommandInset href
+LatexCommand href
+name "comfybikes.de"
+target "https://comfybikes.de/"
+literal "false"
+
+\end_inset
+
+ an app to suggest optimal saddle height for your bike using image detection.
 \end_layout
 
 \begin_layout Labeling
@@ -736,97 +830,6 @@ A Novel Stove Stand”).
 \begin_layout Standard
 
 \series bold
-Articles and Publications
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •
-\begin_inset CommandInset href
-LatexCommand href
-name "Phase biasing of a Josephson junction using Rashba-Edelstein effect. "
-target "https://doi.org/10.48550/ARXIV.2304.11457"
-literal "false"
-
-\end_inset
-
-Senapati, T., Karnad, A.
- & Senapati, K.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •
-\begin_inset CommandInset href
-LatexCommand href
-name "“Gravitational waves really exist!”. Dream 2047 (Vigyanprasar),"
-target "http://vigyanprasar.gov.in/wp-content/uploads/dream-april-2016-eng.pdf"
-literal "false"
-
-\end_inset
-
-, 18(7): 28–29, Apr.
- 2016.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- •Review articles on scientific and hobbyist instruments on element14.com
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-newpage
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
 Relevant Coursework
 \series default
 
@@ -858,11 +861,10 @@ height "1pt"
 Physics : 
 \series default
 • Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
- • Quantum Mechanics I&II • Non-Linear Dynamics • Nanotechnology and Nanosensors
-, Part1&2 - Israel Institute of Technology (Coursera) •Topology in Condensed
- Matter: Tying Quantum Knots - DelftX University (edx) • Quantum Information
- and Computing • Solid State Physics •Atomic and molecular Physics • Nuclear
- and Particle Physics • Quantum Information Theory 
+ • Quantum Mechanics I&II • Non-Linear Dynamics • Solid State Physics •Atomic
+ and molecular Physics • Nuclear and Particle Physics • Quantum Information
+ and Computing • Quantum Information Theory • Nanotechnology and Nanosensors,
+ Part1&2 - Israel Institute of Technology (Coursera)
 \end_layout
 
 \begin_layout Standard
@@ -871,17 +873,15 @@ Physics :
 Electronics : 
 \series default
 • Microelectronics • Microprocessors and interfacing • Digital circuits
- • Electric Machines • Specialisation on Semiconductor Devices - University
- of Colorado Boulder (Coursera) •Introduction to Data Science in Python-Universi
-ty of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
+ • Electric Machines •Introduction to Data Science in Python-University
+ of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
  Image Processing • Modern Control Systems • Analog and Digital VLSI design
  • Transducers and measurement techniques • Electronics instruments & instrument
-ation technology • Object Oriented Programming • Introduction to High-Performanc
-e and Parallel Computing - University of Colorado Boulder (Coursera)
+ation technology • Object Oriented Programming
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace 30pt
+\begin_inset VSpace 10pt
 \end_inset
 
 
