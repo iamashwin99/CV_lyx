@@ -298,7 +298,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- - Experimental condensed matter physics (Device Physics).
+ - Experimental and computational condensed matter physics (Device Physics).
 \begin_inset Newline newline
 \end_inset
 
@@ -307,7 +307,8 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-- Solving real-world problems using Distributed Ledger Technology.
+- Solving real-world problems using technologies like Distributed Ledger
+ Technology and computational intelligence.
 \end_layout
 
 \begin_layout Standard
@@ -708,8 +709,9 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2022 1st place, COMPAR EU hackathon: Created an AI-based solution for a
- data platform which helps patients manage their serious chronic illness.
+2022 1st place, COMPAR EU hackathon: Created an LLM (AI) based solution
+ for a data aggregation platform which helps patients manage their serious
+ chronic illness.
 \end_layout
 
 \begin_layout Labeling
@@ -920,9 +922,10 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Shell • Python • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • Git • Verilog
- • 3D CAD modeling (Onshape,Fusion 360) • PCB Design (Eagle CAD)
+: • Python (Numpy, Pandas, Xarray, HoloViews) • Shell • LabVIEW • Matlab
+ • JavaScript •\SpecialChar LaTeX
+ • C++ • Git • Verilog • 3D CAD modeling (Onshape,Fusion
+ 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
@@ -932,165 +935,6 @@ Instrumentation:
 \series default
 • Photolithography • DC Magnetron sputtering • Physical Property Measurement
  System (DCR and VSM) 
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace 30pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-List of Referees 
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-Prof.
- Kartikeswar Senapati
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-\noun default
-Reader F 
-\begin_inset Newline newline
-\end_inset
-
-School of Physical Sciences
-\begin_inset Newline newline
-\end_inset
-
-National Institute of Science Education and Research, 
-\begin_inset Newline newline
-\end_inset
-
-Bhubaneswar 
-\lang english
-–
-\lang american
- 752050, Odisha, India.
-\begin_inset Newline newline
-\end_inset
-
-Email:
-\begin_inset CommandInset href
-LatexCommand href
-name " kartik@niser.ac.in"
-target "kartik@niser.ac.in"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-Prof.
- Ram Shanker Patel
-\noun default
-\lang english
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Associate Professor 
-\begin_inset Newline newline
-\end_inset
-
-Department of Physics
-\begin_inset Newline newline
-\end_inset
-
-Birla Institute of Technology and Science Pilani - K K Birla Goa Campus,
-\begin_inset Newline newline
-\end_inset
-
-Zuarinagar – 403726, Goa, India.
-\begin_inset Newline newline
-\end_inset
-
-Email: 
-\begin_inset CommandInset href
-LatexCommand href
-name "rsp@goa.bits-pilani.ac.in"
-target "rsp@goa.bits-pilani.ac.in"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-\lang english
-Dr.
- Dhavala Suri
-\noun default
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Postdoctoral Scientist
-\begin_inset Newline newline
-\end_inset
-
-Technische Universität München,
-\begin_inset Newline newline
-\end_inset
-
-Garching, 85748, Germany
-\begin_inset Newline newline
-\end_inset
-
-Email: 
-\begin_inset CommandInset href
-LatexCommand href
-name "d.suri@tum.de"
-target "d.suri@tum.de"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
 \end_layout
 
 \end_body
