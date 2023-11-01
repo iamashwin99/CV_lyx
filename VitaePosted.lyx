@@ -307,7 +307,8 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-- Solving real-world problems using Distributed Ledger Technology.
+- Solving real-world problems using Distributed Ledger Technology and Neuromorph
+ic Computing.
 \end_layout
 
 \begin_layout Standard
@@ -635,7 +636,11 @@ Karnad, A
 \series default
 .
  & Senapati, K.
- ( Accepted in Nature Communications #NCOMMS-23-17614B )
+ ( Accepted in 
+\series bold
+Nature Communications
+\series default
+ #NCOMMS-23-17614B )
 \end_layout
 
 \begin_layout Labeling

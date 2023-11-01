@@ -298,7 +298,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- - Experimental condensed matter physics (Device Physics).
+ - Experimental and computational condensed matter physics (Device Physics).
 \begin_inset Newline newline
 \end_inset
 
@@ -359,9 +359,9 @@ MPI for the Structure and Dynamics of Matter
 \begin_inset Newline newline
 \end_inset
 
-Worked on Computational Scientific support, HPC codes and infrastructure
- maintanance, Postopus: a python package for POSTprocessing of OctoPUS simulatio
-ns.
+Worked on Computational Scientific support, massively parallel HPC codes
+ and infrastructure maintanance, Postopus: a python package for POSTprocessing
+ of OctoPUS simulations.
 \end_layout
 
 \begin_layout Standard
@@ -567,8 +567,8 @@ Ongoing Projects
  
 \begin_inset CommandInset href
 LatexCommand href
-name "comfybike.de"
-target "comfybike.de"
+name "comfybikes.de"
+target "https://comfybikes.de/"
 literal "false"
 
 \end_inset
@@ -635,6 +635,11 @@ Karnad, A
 \series default
 .
  & Senapati, K.
+ ( Accepted in 
+\series bold
+Nature Communications
+\series default
+ #NCOMMS-23-17614B )
 \end_layout
 
 \begin_layout Labeling
@@ -697,8 +702,8 @@ height "1pt"
 2023 1st place, Rad-Daten-Hackathon: worked on 
 \begin_inset CommandInset href
 LatexCommand href
-name "comfybike.de"
-target "comfybike.de"
+name "comfybikes.de"
+target "https://comfybikes.de/"
 literal "false"
 
 \end_inset
@@ -980,7 +985,7 @@ Prof.
 
 \emph on
 \noun default
-Reader F 
+Associate Professor 
 \begin_inset Newline newline
 \end_inset
 
@@ -1005,6 +1010,48 @@ Email:
 LatexCommand href
 name " kartik@niser.ac.in"
 target "kartik@niser.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+\lang english
+Dr.
+ Dhavala Suri
+\noun default
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Assistant Professort
+\begin_inset Newline newline
+\end_inset
+
+Centre for Nano Science and Engineering (CeNSE),
+\begin_inset Newline newline
+\end_inset
+
+Indian Institute of Science,
+\begin_inset Newline newline
+\end_inset
+
+Bangalore, Karnataka, India.
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "dsuri@iisc.ac.in"
+target "dsuri@iisc.ac.in"
 type "mailto:"
 literal "false"
 
@@ -1047,44 +1094,6 @@ Email:
 LatexCommand href
 name "rsp@goa.bits-pilani.ac.in"
 target "rsp@goa.bits-pilani.ac.in"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-\lang english
-Dr.
- Dhavala Suri
-\noun default
- 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Postdoctoral Scientist
-\begin_inset Newline newline
-\end_inset
-
-Technische Universität München,
-\begin_inset Newline newline
-\end_inset
-
-Garching, 85748, Germany
-\begin_inset Newline newline
-\end_inset
-
-Email: 
-\begin_inset CommandInset href
-LatexCommand href
-name "d.suri@tum.de"
-target "d.suri@tum.de"
 type "mailto:"
 literal "false"
 
