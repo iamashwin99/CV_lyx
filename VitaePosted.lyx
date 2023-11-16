@@ -104,6 +104,14 @@ ashwin kumar karnad
 \end_layout
 
 \begin_layout Standard
+\align center
+\begin_inset VSpace -25pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \series bold
 Contact
@@ -168,7 +176,7 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -2pt
+\begin_inset VSpace -5pt
 \end_inset
 
 
@@ -298,17 +306,25 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- - Experimental and computational condensed matter physics (Device Physics).
-\begin_inset Newline newline
+ • Experimental and computational condensed matter physics (Device Physics).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
 \end_inset
 
-- Interfacing sensors with microcontrollers, Power management, electrical
+ • Interfacing sensors with microcontrollers, Power management, electrical
  drive system, Instrument design.
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
 \end_inset
 
-- Solving real-world problems using Distributed Ledger Technology and Neuromorph
-ic Computing.
+ • Solving real-world problems using Distributed Ledger Technology and Neuromorp
+hic Computing.
 \end_layout
 
 \begin_layout Standard
@@ -457,7 +473,7 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \series default
  Decentralized financing of energy projects via smart contracts written
  on public blockchains.
- (worrked as software developer and project coordinator)
+ (Worrked as software developer and project coordinator)
 \end_layout
 
 \begin_layout Labeling
@@ -509,7 +525,7 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
  Pressure sensitive mat:
 \series default
  A mat that can sense touch, enabling the determination of different poses
- such as Running, Jumping, Rightward-leftward movement, one leg hop etc..
+ such as Running, Jumping, one leg hop etc..
  ( Worked in electronics and algorithm design ).
 \end_layout
 
@@ -549,6 +565,14 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+\begin_inset VSpace -10pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
 
 \end_layout
 
@@ -582,7 +606,7 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-\begin_inset VSpace -5pt
+\begin_inset VSpace -7pt
 \end_inset
 
 
@@ -610,7 +634,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -8pt
+\begin_inset VSpace -10pt
 \end_inset
 
 
@@ -621,26 +645,26 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- •
+ •Senapati, T., 
+\series bold
+Karnad, A.K
+\series default
+.
+ & Senapati, K.
+ 
 \begin_inset CommandInset href
 LatexCommand href
-name "Phase biasing of a Josephson junction using Rashba-Edelstein effect. "
-target "https://doi.org/10.48550/ARXIV.2304.11457"
+name "Phase biasing of a Josephson junction using Rashba–Edelstein effect. "
+target "https://doi.org/10.1038/s41467-023-42987-9"
 literal "false"
 
 \end_inset
 
-Senapati, T., 
-\series bold
-Karnad, A
-\series default
-.
- & Senapati, K.
- ( Accepted in 
+ 
 \series bold
 Nature Communications
 \series default
- #NCOMMS-23-17614B )
+ 14, 7415 (2023)
 \end_layout
 
 \begin_layout Labeling
@@ -692,7 +716,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -8pt
+\begin_inset VSpace -10pt
 \end_inset
 
 
@@ -855,7 +879,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -8pt
+\begin_inset VSpace -10pt
 \end_inset
 
 
@@ -887,7 +911,7 @@ ation technology • Object Oriented Programming
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace 10pt
+\begin_inset VSpace 5pt
 \end_inset
 
 
@@ -915,7 +939,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -8pt
+\begin_inset VSpace -10pt
 \end_inset
 
 
@@ -941,7 +965,7 @@ Instrumentation:
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace 30pt
+\begin_inset VSpace 15pt
 \end_inset
 
 
@@ -969,7 +993,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace -8pt
+\begin_inset VSpace -10pt
 \end_inset
 
 
