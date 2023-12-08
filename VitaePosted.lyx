@@ -163,7 +163,11 @@ literal "false"
 
 \end_inset
 
-, Blog: 
+, 
+\begin_inset Newline newline
+\end_inset
+
+Webpage: 
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwinschronicles.github.io"
@@ -172,7 +176,23 @@ literal "false"
 
 \end_inset
 
- 
+ , Github
+\begin_inset Graphics
+	filename github-mark.pdf
+	width 5mm
+
+\end_inset
+
+:
+\begin_inset CommandInset href
+LatexCommand href
+name "iamashwin99"
+target "https://github.com/iamashwin99"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

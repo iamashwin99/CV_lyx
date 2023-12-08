@@ -163,7 +163,11 @@ literal "false"
 
 \end_inset
 
-, Blog: 
+, 
+\begin_inset Newline newline
+\end_inset
+
+Webpage: 
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwinschronicles.github.io"
@@ -172,7 +176,16 @@ literal "false"
 
 \end_inset
 
- 
+ , Github:
+\begin_inset CommandInset href
+LatexCommand href
+name "iamashwin99"
+target "https://github.com/iamashwin99"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -269,8 +282,7 @@ CBSE Board.
 \end_inset
 
  All India Rank in competitive examinations: TOEFL (score) 106/120, NGPE-
- Top 30, KVPY-55, ComedK - 113, KCET - 592.
- 
+ Top 30, KVPY-55.
 \end_layout
 
 \begin_layout Standard
@@ -377,8 +389,8 @@ MPI for the Structure and Dynamics of Matter
 \end_inset
 
 Worked on Computational Scientific support, massively parallel HPC codes
- and infrastructure maintanance, Postopus: a python package for POSTprocessing
- of OctoPUS simulations.
+ and HPC infrastructure maintanance, Postopus: a python package for POSTprocessi
+ng of OctoPUS simulations.
 \end_layout
 
 \begin_layout Standard
@@ -495,16 +507,6 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- • Determination of temperature of stars by analysing images obtained from
- a simple camera.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
  •
 \series bold
  A Novel Stove Stand
@@ -568,11 +570,6 @@ literal "false"
 \begin_inset VSpace -10pt
 \end_inset
 
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
 
 \end_layout
 
@@ -645,7 +642,7 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- •Senapati, T., 
+ • Senapati, T., 
 \series bold
 Karnad, A.K
 \series default
@@ -668,11 +665,33 @@ Nature Communications
 \end_layout
 
 \begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ • Presented a paper entitled 
+\begin_inset Quotes eld
+\end_inset
+
+Algorithms in ancient Indian Mathematics and Astronomy” at 
+\begin_inset Quotes eld
+\end_inset
+
+National Conference on Ancient Indian Knowledge: Science and Technology
+ 2018”, 
+\emph on
+National Council of Educational Research and Training, New Delhi
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Labeling
 \labelwidthstring MMMMM
 \begin_inset space ~
 \end_inset
 
- •
+ • 
 \begin_inset CommandInset href
 LatexCommand href
 name "“Gravitational waves really exist!”. Dream 2047 (Vigyanprasar),"
@@ -691,7 +710,7 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
- •Review articles on scientific and hobbyist instruments on element14.com
+ • Review articles on scientific and hobbyist instruments on element14.com
 \end_layout
 
 \begin_layout Standard
@@ -763,26 +782,7 @@ organised by University of Leeds
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring 00.00.0000
-2018 Presented a paper entitled 
-\begin_inset Quotes eld
-\end_inset
-
-Algorithms in ancient Indian Mathematics and Astronomy” at 
-\begin_inset Quotes eld
-\end_inset
-
-National Conference on Ancient Indian Knowledge: Science and Technology”,
- 
-\emph on
-National Council of Educational Research and Training, New Delhi
-\emph default
-.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
+\labelwidthstring MMMMM
 2018 Awarded Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 Fellowship by
 \emph on
  Govt.
@@ -793,7 +793,7 @@ National Council of Educational Research and Training, New Delhi
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring 00.00.0000
+\labelwidthstring MMMMM
 2018 Offered Innovation in Science Pursuit for Inspired Research (INSPIRE)
  2017 Scholarship by
 \emph on
@@ -805,7 +805,7 @@ National Council of Educational Research and Training, New Delhi
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring 00.00.0000
+\labelwidthstring MMMMM
 2016 Awarded ISCA Travel award by 
 \emph on
 Infosys Foundation
@@ -815,40 +815,25 @@ Infosys Foundation
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring 00.00.0000
+\labelwidthstring MMMMM
 2014-16 Participated in 
 \begin_inset Formula $103^{rd}$
 \end_inset
 
- Indian Science Congress held at Mysore, India.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2016 Participated in IRIS science fair organised by 
+ Indian Science Congress held at Mysore, India (2016); IRIS science fair
+ organised by 
 \emph on
 Intel
 \emph default
- at Delhi, India.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2015 Participated in Rashtriya Kishore Vaigyanik Sammelan of 
+ at Delhi, India (2016); Rashtriya Kishore Vaigyanik Sammelan of 
 \begin_inset Formula $102^{nd}$
 \end_inset
 
- Indian Science Congress held at Mumbai, India.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2014 Participated in 
+ Indian Science Congress held at Mumbai, India (2015); 
 \begin_inset Formula $41^{st}$
 \end_inset
 
- Jawaharlal Nehru National Science Exhibition at Chandigarh (Presenting
+ Jawaharlal Nehru National Science Exhibition at Chandigarh (2014) (Presenting
  the device stated as 
 \begin_inset Quotes eld
 \end_inset
@@ -952,7 +937,7 @@ Computational
 \series default
 : • Shell • Python • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
  • C++ • Git • Verilog
- • 3D CAD modeling (Onshape,Fusion 360) • PCB Design (Eagle CAD)
+ • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
@@ -1046,6 +1031,49 @@ literal "false"
 \begin_layout Enumerate
 
 \noun on
+Prof.
+
+\lang english
+ Hans Fangohr
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Head - SSU Computational Science
+\begin_inset Newline newline
+\end_inset
+
+Max Planck Institute for Structure and Dynamics of Matter 
+\begin_inset Newline newline
+\end_inset
+
+Luruper Chaussee 149 
+\begin_inset Newline newline
+\end_inset
+
+22761 Hamburg, Germany
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name "hans.fangohr@mpsd.mpg.de"
+target "hans.fangohr@mpsd.mpg.de"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
 \lang english
 Dr.
  Dhavala Suri
@@ -1077,48 +1105,6 @@ Email:
 LatexCommand href
 name "dsuri@iisc.ac.in"
 target "dsuri@iisc.ac.in"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-
-\noun on
-Prof.
- Ram Shanker Patel
-\noun default
-\lang english
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-Associate Professor 
-\begin_inset Newline newline
-\end_inset
-
-Department of Physics
-\begin_inset Newline newline
-\end_inset
-
-Birla Institute of Technology and Science Pilani - K K Birla Goa Campus,
-\begin_inset Newline newline
-\end_inset
-
-Zuarinagar – 403726, Goa, India.
-\begin_inset Newline newline
-\end_inset
-
-Email: 
-\begin_inset CommandInset href
-LatexCommand href
-name "rsp@goa.bits-pilani.ac.in"
-target "rsp@goa.bits-pilani.ac.in"
 type "mailto:"
 literal "false"
 
