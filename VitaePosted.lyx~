@@ -940,14 +940,20 @@ height "1pt"
 
 \begin_layout Standard
 
+\noun on
+Physics :
 \series bold
-Physics : 
+\noun default
+ 
 \series default
-• 
+• Quantum Mechanics I&II • Non-Linear Dynamics • 
 \series bold
-Quantum Mechanics I&II
+Solid State Physics
 \series default
- • Non-Linear Dynamics • Solid State Physics •Atomic and molecular Physics
+ •
+\series bold
+Atomic and molecular Physics
+\series default
  • Nuclear and Particle Physics • 
 \series bold
 Quantum Information and Computing
@@ -958,8 +964,11 @@ Quantum Information and Computing
 
 \begin_layout Standard
 
+\noun on
+Electronics :
 \series bold
-Electronics : 
+\noun default
+ 
 \series default
 •
 \series bold
@@ -1018,10 +1027,10 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Python (pytest, numpy, pandas, xarray, plotting libraries) • Shell (bash,
- zsh, nu) • Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • Verilog • 3D CAD
- modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
+: • Python (pytest, numpy, pandas, xarray, scipy, plotting libraries) •
+ Shell (bash, zsh, nu) • Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
+ • C++ • Verilog
+ • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
@@ -1076,8 +1085,9 @@ height "1pt"
 Prof.
  Kartikeswar Senapati
 \emph on
+ 
 \noun default
-
+(Master's Thesis supervisor)
 \begin_inset Newline newline
 \end_inset
 
@@ -1085,6 +1095,8 @@ Associate Professor
 \begin_inset Newline newline
 \end_inset
 
+
+\emph default
 School of Physical Sciences
 \begin_inset Newline newline
 \end_inset
@@ -1112,12 +1124,6 @@ literal "false"
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
-
-
-\noun on
-(Masters Thesis supervisor)
 \end_layout
 
 \begin_layout Enumerate
@@ -1129,7 +1135,7 @@ Prof.
  Hans Fangohr
 \emph on
 \noun default
-
+ (Current Supervisor)
 \begin_inset Newline newline
 \end_inset
 
@@ -1137,6 +1143,8 @@ Head - SSU Computational Science
 \begin_inset Newline newline
 \end_inset
 
+
+\emph default
 Max Planck Institute for Structure and Dynamics of Matter 
 \begin_inset Newline newline
 \end_inset
@@ -1160,13 +1168,6 @@ literal "false"
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph default
-\noun on
-(Current Supervisor)
 \end_layout
 
 \begin_layout Enumerate
@@ -1174,9 +1175,12 @@ literal "false"
 \noun on
 \lang english
 Dr.
- Dhavala Suri
+ Dhavala Suri 
+\emph on
 \noun default
- 
+(Research Mentor) 
+\emph default
+
 \begin_inset Newline newline
 \end_inset
 
@@ -1186,6 +1190,8 @@ Assistant Professort
 \begin_inset Newline newline
 \end_inset
 
+
+\emph default
 Centre for Nano Science and Engineering (CeNSE),
 \begin_inset Newline newline
 \end_inset
@@ -1209,15 +1215,6 @@ literal "false"
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
-
-
-\emph default
-\noun on
-(Research Mentor
-\noun default
-)
 \end_layout
 
 \end_body
