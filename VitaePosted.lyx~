@@ -461,9 +461,45 @@ MPI for the Structure and Dynamics of Matter
 \begin_inset Newline newline
 \end_inset
 
-Worked on Computational Scientific support, massively parallel HPC codes
- and HPC infrastructure maintenance, Postopus: a python package for POSTprocessi
-ng of OctoPUS simulations.
+Worked on 
+\series bold
+Computational Scientific support
+\series default
+, massively parallel
+\series bold
+ HPC codes
+\series default
+ and 
+\series bold
+HPC
+\series default
+ 
+\series bold
+infrastructure
+\series default
+ maintenance (hardware and software), contributed to the 
+\series bold
+development of python packages
+\series default
+ like: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Postopus"
+target "https://gitlab.com/octopus-code/postopus"
+literal "false"
+
+\end_inset
+
+ - POSTprocessing of OctoPUS simulations; 
+\begin_inset CommandInset href
+LatexCommand href
+name "mpsd-software-manager"
+target "https://gitlab.gwdg.de/mpsd-cs/mpsd-software-manager"
+literal "false"
+
+\end_inset
+
+mpsd-hpc-tools.
 \end_layout
 
 \begin_layout Standard
@@ -1029,8 +1065,8 @@ Computational
 \series default
 : • Python (pytest, numpy, pandas, xarray, scipy, plotting libraries) •
  Shell (bash, zsh, nu) • Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • Verilog
- • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
+ • C++ • 3D
+ CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
