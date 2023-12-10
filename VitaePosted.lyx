@@ -1002,10 +1002,10 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Python (pytest, numpy, pandas, xarray, plotting libraries) • Shell •
- Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • Verilog • 3D CAD modeling
- (Onshape, Fusion 360) • PCB Design (Eagle CAD)
+: • Python (pytest, numpy, pandas, xarray, plotting libraries) • Shell (bash,
+ zsh, nu) • Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
+ • C++ • Verilog • 3D CAD
+ modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
@@ -1014,7 +1014,9 @@ Computational
 Instrumentation: 
 \series default
 • Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (DCR and VSM) • SEM, FIB and GIS
+ System (DCR and VSM) • 
+\series bold
+SEM, FIB and GIS
 \end_layout
 
 \begin_layout Standard

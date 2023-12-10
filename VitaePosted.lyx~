@@ -222,7 +222,7 @@ literal "false"
 
 \end_inset
 
- Github :
+ Github: 
 \begin_inset CommandInset href
 LatexCommand href
 name "iamashwin99"
@@ -1014,7 +1014,9 @@ Computational
 Instrumentation: 
 \series default
 • Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (DCR and VSM) • SEM, FIB and GIS
+ System (DCR and VSM) • 
+\series bold
+SEM, FIB and GIS
 \end_layout
 
 \begin_layout Standard
