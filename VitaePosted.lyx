@@ -383,8 +383,12 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- • Experimental and computational condensed matter physics (magnetism and
- superconductivity).
+ •
+\series bold
+ Experimental and computational condensed matter physics (magnetism and
+ superconductivity
+\series default
+).
 \end_layout
 
 \begin_layout Labeling
@@ -401,8 +405,11 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- • Solving real-world problems using Distributed Ledger Technology and Neuromorp
-hic Computing.
+ • Solving real-world problems using Distributed Ledger Technology and
+\series bold
+ Neuromorphic Computing
+\series default
+.
 \end_layout
 
 \begin_layout Standard
@@ -498,8 +505,11 @@ Past Projects
 \begin_inset space ~
 \end_inset
 
- • Studying the effect of high spin orbit coupling material in Josephson
- Junctions, at 
+ • 
+\series bold
+Studying the effect of high spin orbit coupling material in Josephson Junctions
+\series default
+, at 
 \emph on
 Superconductivity lab, NISER, Bhubaneswar, India.
 \end_layout
@@ -509,9 +519,13 @@ Superconductivity lab, NISER, Bhubaneswar, India.
 \begin_inset space ~
 \end_inset
 
- • Design of a cryogenic probe for transport measurements at 
+ • 
+\series bold
+Design of a cryogenic probe for transport measurements at 
 \emph on
-Superconductivity lab, NISER, Bhubaneswar, India.
+Superconductivity lab
+\series default
+, NISER, Bhubaneswar, India.
 \end_layout
 
 \begin_layout Labeling
@@ -545,12 +559,8 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- •
-\series bold
- GrayBlock Power:
-\series default
- Decentralized financing of energy projects via smart contracts written
- on public blockchains.
+ • GrayBlock Power: Decentralized financing of energy projects via smart
+ contracts written on public blockchains.
  (Worrked as software developer and project coordinator)
 \end_layout
 
@@ -559,12 +569,8 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- •
-\series bold
- Team Imitato:
-\series default
- Designing an exosuit to control a humanoid that can be beneficial in reaching
- in-accessible and non-human conditions.
+ • Team Imitato: Designing an exosuit to control a humanoid that can be
+ beneficial in reaching in-accessible and non-human conditions.
  (Worked as Electronics, Communication and Haptics Control head) 
 \end_layout
 
@@ -573,12 +579,9 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- •
-\series bold
- A Novel Stove Stand
-\series default
-: Designed and built a contraption to harness electricity (about 20W) from
- the otherwise wasted heat energy produced while burning LPG gas for cooking.
+ • A Novel Stove Stand: Designed and built a contraption to harness electricity
+ (about 20W) from the otherwise wasted heat energy produced while burning
+ LPG gas for cooking.
  It also reduced the cooking time.
  
 \end_layout
@@ -588,12 +591,8 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- •
-\series bold
- Pressure sensitive mat:
-\series default
- A mat that can sense touch, enabling the determination of different poses
- such as Running, Jumping, one leg hop etc..
+ • Pressure sensitive mat: A mat that can sense touch, enabling the determinatio
+n of different poses such as Running, Jumping, one leg hop etc..
  ( Worked in electronics and algorithm design ).
 \end_layout
 
@@ -944,10 +943,20 @@ height "1pt"
 \series bold
 Physics : 
 \series default
-• Quantum Mechanics I&II • Non-Linear Dynamics • Solid State Physics •Atomic
- and molecular Physics • Nuclear and Particle Physics • Quantum Information
- and Computing • Quantum Information Theory • Electromagnetic theory I&II
- • Classical Mechanics • Statistical Mechanics 
+• Quantum Mechanics I&II • Non-Linear Dynamics • 
+\series bold
+Solid State Physics
+\series default
+ •
+\series bold
+Atomic and molecular Physics
+\series default
+ • Nuclear and Particle Physics • 
+\series bold
+Quantum Information and Computing
+\series default
+ • Quantum Information Theory • Electromagnetic theory I&II • Classical
+ Mechanics • Statistical Mechanics 
 \end_layout
 
 \begin_layout Standard
@@ -955,11 +964,21 @@ Physics :
 \series bold
 Electronics : 
 \series default
-•Analog and Digital circuits • Microelectronics • Microprocessors and interfacin
-g • Digital circuits • Electric Machines • Signals and Systems • Control
- Systems • Digital Image Processing • Modern Control Systems • Analog and
- Digital VLSI design • Transducers and measurement techniques • Electronics
- instruments & instrumentation technology • Object Oriented Programming
+•
+\series bold
+Analog and Digital VLSI design
+\series default
+ • Microelectronics • Microprocessors and interfacing • Digital circuits
+ • Electric Machines • Signals and Systems • Control Systems • Digital Image
+ Processing • Modern Control Systems • 
+\series bold
+Transducers and measurement techniques 
+\series default
+• 
+\series bold
+Electronics instruments & instrumentation technology 
+\series default
+• Object Oriented Programming
 \end_layout
 
 \begin_layout Standard
