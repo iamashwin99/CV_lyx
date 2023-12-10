@@ -112,38 +112,29 @@ ashwin kumar karnad
 \end_layout
 
 \begin_layout Standard
-
-\series bold
-Contact
-\begin_inset Newline newline
-\end_inset
-
-
-\series default
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -5pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
+\noindent
 \align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 
 \size large
 \emph on
+\begin_inset Graphics
+	filename images/email.pdf
+	lyxscale 5
+	width 4mm
+
+\end_inset
+
+
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwin-kumar.karnad@mpsd.mpg.de"
@@ -153,7 +144,26 @@ literal "false"
 
 \end_inset
 
-, 
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\emph on
+\begin_inset Graphics
+	filename images/email.pdf
+	lyxscale 5
+	width 4mm
+
+\end_inset
+
+
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwinkumar.k.rao@gmail.com"
@@ -163,8 +173,25 @@ literal "false"
 
 \end_inset
 
-, 
-\begin_inset Newline newline
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\emph on
+\begin_inset Graphics
+	filename images/website.pdf
+	lyxscale 5
+	width 4mm
+
 \end_inset
 
 Webpage: 
@@ -176,14 +203,26 @@ literal "false"
 
 \end_inset
 
- , Github
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\emph on
 \begin_inset Graphics
-	filename github-mark.pdf
-	width 5mm
+	filename images/github-mark.pdf
+	lyxscale 20
+	width 4mm
 
 \end_inset
 
-:
+Github :
 \begin_inset CommandInset href
 LatexCommand href
 name "iamashwin99"
@@ -195,10 +234,21 @@ literal "false"
 
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
 \begin_inset VSpace -5pt
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 
 \series bold
 Education
@@ -239,8 +289,16 @@ height "1pt"
 
 \emph on
 Int.
- MSc.
- Physics and B.E Electronics and Instrumentation (Dual Major) CGPA - 7.5/10.0
+ 
+\series bold
+MSc.
+ Physics
+\series default
+ and
+\series bold
+ B.E Electronics and Instrumentation
+\series default
+ (Dual Major) CGPA - 7.71 / 10.0
 \emph default
  
 \end_layout
@@ -289,7 +347,7 @@ CBSE Board.
 \end_inset
 
  All India Rank in competitive examinations: TOEFL (score) 106/120, NGPE-
- Top 30, KVPY-55.
+ Top 30, KVPY-55, UGC -CSIR NET 67
 \end_layout
 
 \begin_layout Standard
@@ -325,7 +383,8 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- • Experimental and computational condensed matter physics (Device Physics).
+ • Experimental and computational condensed matter physics (magnetism and
+ superconductivity).
 \end_layout
 
 \begin_layout Labeling
@@ -333,8 +392,8 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- • Interfacing sensors with microcontrollers, Power management, electrical
- drive system, Instrument design.
+ • Instrument design, Electrical drive system, Interfacing sensors with
+ microcontrollers, Power management.
 \end_layout
 
 \begin_layout Labeling
@@ -396,7 +455,7 @@ MPI for the Structure and Dynamics of Matter
 \end_inset
 
 Worked on Computational Scientific support, massively parallel HPC codes
- and HPC infrastructure maintanance, Postopus: a python package for POSTprocessi
+ and HPC infrastructure maintenance, Postopus: a python package for POSTprocessi
 ng of OctoPUS simulations.
 \end_layout
 
@@ -605,7 +664,7 @@ literal "false"
 :
 \series default
  A simple and smart app that helps you find the optimal saddle height for
- your bike using image detection.
+ your bike using image detection techniques.
 \end_layout
 
 \begin_layout Labeling
@@ -790,10 +849,13 @@ organised by University of Leeds
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2018 Awarded Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 Fellowship by
+2018 Awarded Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 
+\series bold
+Fellowship by
 \emph on
  Govt.
  of India
+\series default
 \emph default
 .
  
@@ -882,11 +944,10 @@ height "1pt"
 \series bold
 Physics : 
 \series default
-• Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
- • Quantum Mechanics I&II • Non-Linear Dynamics • Solid State Physics •Atomic
+• Quantum Mechanics I&II • Non-Linear Dynamics • Solid State Physics •Atomic
  and molecular Physics • Nuclear and Particle Physics • Quantum Information
- and Computing • Quantum Information Theory • Nanotechnology and Nanosensors,
- Part1&2 - Israel Institute of Technology (Coursera)
+ and Computing • Quantum Information Theory • Electromagnetic theory I&II
+ • Classical Mechanics • Statistical Mechanics 
 \end_layout
 
 \begin_layout Standard
@@ -894,12 +955,11 @@ Physics :
 \series bold
 Electronics : 
 \series default
-• Microelectronics • Microprocessors and interfacing • Digital circuits
- • Electric Machines •Introduction to Data Science in Python-University
- of Michigan (Coursera) • Signals and Systems • Control Systems • Digital
- Image Processing • Modern Control Systems • Analog and Digital VLSI design
- • Transducers and measurement techniques • Electronics instruments & instrument
-ation technology • Object Oriented Programming
+•Analog and Digital circuits • Microelectronics • Microprocessors and interfacin
+g • Digital circuits • Electric Machines • Signals and Systems • Control
+ Systems • Digital Image Processing • Modern Control Systems • Analog and
+ Digital VLSI design • Transducers and measurement techniques • Electronics
+ instruments & instrumentation technology • Object Oriented Programming
 \end_layout
 
 \begin_layout Standard
@@ -942,9 +1002,10 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Shell • Python • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • Git • Verilog
- • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
+: • Python (pytest, numpy, pandas, xarray, plotting libraries) • Shell •
+ Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
+ • C++ • Verilog • 3D CAD modeling
+ (Onshape, Fusion 360) • PCB Design (Eagle CAD)
 \end_layout
 
 \begin_layout Standard
@@ -953,7 +1014,7 @@ Computational
 Instrumentation: 
 \series default
 • Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (DCR and VSM) 
+ System (DCR and VSM) • SEM, FIB and GIS
 \end_layout
 
 \begin_layout Standard
@@ -996,12 +1057,12 @@ height "1pt"
 \noun on
 Prof.
  Kartikeswar Senapati
+\emph on
+\noun default
+
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
-\noun default
 Associate Professor 
 \begin_inset Newline newline
 \end_inset
@@ -1033,6 +1094,12 @@ literal "false"
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+(Masters Thesis supervisor)
 \end_layout
 
 \begin_layout Enumerate
@@ -1042,13 +1109,12 @@ Prof.
 
 \lang english
  Hans Fangohr
+\emph on
 \noun default
 
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
 Head - SSU Computational Science
 \begin_inset Newline newline
 \end_inset
@@ -1076,6 +1142,13 @@ literal "false"
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+\noun on
+(Current Supervisor)
 \end_layout
 
 \begin_layout Enumerate
@@ -1118,6 +1191,15 @@ literal "false"
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+\noun on
+(Research Mentor
+\noun default
+)
 \end_layout
 
 \end_body
