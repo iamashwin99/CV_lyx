@@ -541,9 +541,18 @@ Past Projects
 \begin_inset space ~
 \end_inset
 
- • 
+ •
 \series bold
-Studying the effect of high spin orbit coupling material in Josephson Junctions
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Studying the effect of high spin orbit coupling material in Josephson Junctions"
+target "https://ashwinschronicles.github.io/josephson-junction-fabrication-and-characterisation"
+literal "false"
+
+\end_inset
+
+
 \series default
 , at 
 \emph on
@@ -557,9 +566,17 @@ Superconductivity lab, NISER, Bhubaneswar, India.
 
  • 
 \series bold
-Design of a cryogenic probe for transport measurements at 
 \emph on
-Superconductivity lab
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Design of a cryogenic probe for transport measurements at Superconductivity lab"
+target "https://ashwinschronicles.github.io/Cryostat-probe-design"
+literal "false"
+
+\end_inset
+
+
 \series default
 , NISER, Bhubaneswar, India.
 \end_layout
@@ -569,8 +586,16 @@ Superconductivity lab
 \begin_inset space ~
 \end_inset
 
- • Design and Simulation of Battery Management System Algorithms for Electric
- Vehicle Applications.
+ • 
+\begin_inset CommandInset href
+LatexCommand href
+name "Design and Simulation of Battery Management System Algorithms for Electric Vehicle Applications"
+target "https://ashwinschronicles.github.io/BMS_for_an_EV_intro"
+literal "false"
+
+\end_inset
+
+.
  
 \emph on
 Kaynes Technology India Pvt Limited, Mysore, India
@@ -615,9 +640,17 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- • A Novel Stove Stand: Designed and built a contraption to harness electricity
- (about 20W) from the otherwise wasted heat energy produced while burning
- LPG gas for cooking.
+ • 
+\begin_inset CommandInset href
+LatexCommand href
+name "A Novel Stove Stand"
+target "https://ashwinschronicles.github.io/a-novel-stove-stand"
+literal "false"
+
+\end_inset
+
+: Designed and built a contraption to harness electricity (about 20W) from
+ the otherwise wasted heat energy produced while burning LPG gas for cooking.
  It also reduced the cooking time.
  
 \end_layout
@@ -639,11 +672,29 @@ n of different poses such as Running, Jumping, one leg hop etc..
 
  • Past electronics team member of 
 \series bold
-Hyperloop India
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Hyperloop India"
+target "https://www.linkedin.com/company/hyperloop-india/"
+literal "false"
+
+\end_inset
+
+
 \series default
  and 
 \series bold
-Project Kratos
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Project Kratos"
+target "https://www.linkedin.com/company/kratosbitsgoa/"
+literal "false"
+
+\end_inset
+
+
 \series default
 .
  
@@ -844,7 +895,16 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2023 1st place, Rad-Daten-Hackathon: worked on 
+2023 
+\begin_inset CommandInset href
+LatexCommand href
+name "1st place, Rad-Daten-Hackathon"
+target "https://www.linkedin.com/posts/ashwin-kumar-k-4854b8121_hhackandride-veloberlin-activity-7060546241083895808-eq6w"
+literal "false"
+
+\end_inset
+
+: worked on 
 \begin_inset CommandInset href
 LatexCommand href
 name "comfybikes.de"
@@ -858,8 +918,17 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2022 1st place, COMPAR EU hackathon: Created an AI-based solution for a
- data platform which helps patients manage their serious chronic illness.
+2022 
+\begin_inset CommandInset href
+LatexCommand href
+name "1st place, COMPAR EU hackathon"
+target "https://www.mpsd.mpg.de/653775/2022-10-hackathon-ssucs"
+literal "false"
+
+\end_inset
+
+: Created an AI-based solution for a data platform which helps patients
+ manage their serious chronic illness.
 \end_layout
 
 \begin_layout Labeling
