@@ -895,7 +895,16 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2023 1st place, Rad-Daten-Hackathon: worked on 
+2023 
+\begin_inset CommandInset href
+LatexCommand href
+name "1st place, Rad-Daten-Hackathon"
+target "https://www.linkedin.com/posts/ashwin-kumar-k-4854b8121_hhackandride-veloberlin-activity-7060546241083895808-eq6w"
+literal "false"
+
+\end_inset
+
+: worked on 
 \begin_inset CommandInset href
 LatexCommand href
 name "comfybikes.de"
@@ -909,8 +918,17 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2022 1st place, COMPAR EU hackathon: Created an AI-based solution for a
- data platform which helps patients manage their serious chronic illness.
+2022 
+\begin_inset CommandInset href
+LatexCommand href
+name "1st place, COMPAR EU hackathon"
+target "https://www.mpsd.mpg.de/653775/2022-10-hackathon-ssucs"
+literal "false"
+
+\end_inset
+
+: Created an AI-based solution for a data platform which helps patients
+ manage their serious chronic illness.
 \end_layout
 
 \begin_layout Labeling
@@ -1114,10 +1132,21 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Python (pytest, numpy, pandas, xarray, scipy, plotting libraries) •
- Shell (bash, zsh, nu) • Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • 3D
- CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
+: • 
+\series bold
+Python
+\series default
+ (pytest, numpy, pandas, xarray, scipy, plotting libraries) • Shell (bash,
+ zsh, nu) • Git • LabVIEW • 
+\series bold
+LTspice
+\series default
+ • \SpecialChar LaTeX
+ • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD) • 
+\series bold
+Matlab
+\series default
+ • JavaScript • C++ 
 \end_layout
 
 \begin_layout Standard
@@ -1126,7 +1155,11 @@ Computational
 Instrumentation: 
 \series default
 • Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (DCR and VSM) • 
+ System (
+\series bold
+DCR
+\series default
+ and VSM) • 
 \series bold
 SEM, FIB and GIS
 \end_layout

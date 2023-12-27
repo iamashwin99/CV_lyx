@@ -1051,7 +1051,11 @@ Physics :
 \noun default
  
 \series default
-• Quantum Mechanics I&II • Non-Linear Dynamics • 
+• Quantum Mechanics I&II • 
+\series bold
+Non-Linear Dynamics
+\series default
+ • 
 \series bold
 Solid State Physics
 \series default
@@ -1132,10 +1136,21 @@ height "1pt"
 \series bold
 Computational
 \series default
-: • Python (pytest, numpy, pandas, xarray, scipy, plotting libraries) •
- Shell (bash, zsh, nu) • Git • LabVIEW • Matlab • JavaScript •\SpecialChar LaTeX
- • C++ • 3D
- CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD)
+: • 
+\series bold
+Python
+\series default
+ (pytest, numpy, pandas, xarray, scipy, plotting libraries) • Shell (bash,
+ zsh, nu) • Git • LabVIEW • 
+\series bold
+LTspice
+\series default
+ • \SpecialChar LaTeX
+ • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD) • 
+\series bold
+Matlab
+\series default
+ • JavaScript • C++ 
 \end_layout
 
 \begin_layout Standard
@@ -1144,7 +1159,11 @@ Computational
 Instrumentation: 
 \series default
 • Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (DCR and VSM) • 
+ System (
+\series bold
+DCR
+\series default
+ and VSM) • 
 \series bold
 SEM, FIB and GIS
 \end_layout
