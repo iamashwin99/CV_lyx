@@ -755,6 +755,15 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ • 
+\series bold
+Mechanistic interpretability of Neural networks
+\series default
+: reverse-engineering neural networks from the learned weights down to human-int
+erpretable algorithm.
 \begin_inset VSpace -7pt
 \end_inset
 

@@ -755,6 +755,11 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ • Mechanistic interpretability of Neural networks: reverse-engineering
+ neural networks from the learned weights down to human-interpretable algorithm.
 \begin_inset VSpace -7pt
 \end_inset
 
@@ -1051,7 +1056,11 @@ Physics :
 \noun default
  
 \series default
-• Quantum Mechanics I&II • Non-Linear Dynamics • 
+• Quantum Mechanics I&II • 
+\series bold
+Non-Linear Dynamics
+\series default
+ • 
 \series bold
 Solid State Physics
 \series default
