@@ -251,6 +251,144 @@ literal "false"
 \begin_layout Standard
 
 \series bold
+Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ • Senapati, T., 
+\series bold
+Karnad, A.K
+\series default
+.
+ & Senapati, K.
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Phase biasing of a Josephson junction using Rashba–Edelstein effect. "
+target "https://doi.org/10.1038/s41467-023-42987-9"
+literal "false"
+
+\end_inset
+
+ 
+\series bold
+Nature Communications
+\series default
+ 14, 7415 (2023)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Relevant Work Experience
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022-23 
+\emph on
+Research Software Engineer
+\emph default
+, 
+\noun on
+MPI for the Structure and Dynamics of Matter
+\noun default
+, Hamburg.
+\begin_inset Newline newline
+\end_inset
+
+Worked on 
+\series bold
+Computational Scientific support
+\series default
+, massively parallel
+\series bold
+ HPC codes
+\series default
+ and 
+\series bold
+HPC
+\series default
+ 
+\series bold
+infrastructure
+\series default
+ maintenance (hardware and software), contributed to the 
+\series bold
+development of python packages
+\series default
+ like: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Postopus"
+target "https://gitlab.com/octopus-code/postopus"
+literal "false"
+
+\end_inset
+
+ - POSTprocessing of OctoPUS simulations; 
+\begin_inset CommandInset href
+LatexCommand href
+name "mpsd-software-manager"
+target "https://gitlab.gwdg.de/mpsd-cs/mpsd-software-manager"
+literal "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 Education
 \series default
 
@@ -417,89 +555,6 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Relevant Work Experience
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -8pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2022-23 
-\emph on
-Research Software Engineer
-\emph default
-, 
-\noun on
-MPI for the Structure and Dynamics of Matter
-\noun default
-, Hamburg.
-\begin_inset Newline newline
-\end_inset
-
-Worked on 
-\series bold
-Computational Scientific support
-\series default
-, massively parallel
-\series bold
- HPC codes
-\series default
- and 
-\series bold
-HPC
-\series default
- 
-\series bold
-infrastructure
-\series default
- maintenance (hardware and software), contributed to the 
-\series bold
-development of python packages
-\series default
- like: 
-\begin_inset CommandInset href
-LatexCommand href
-name "Postopus"
-target "https://gitlab.com/octopus-code/postopus"
-literal "false"
-
-\end_inset
-
- - POSTprocessing of OctoPUS simulations; 
-\begin_inset CommandInset href
-LatexCommand href
-name "mpsd-software-manager"
-target "https://gitlab.gwdg.de/mpsd-cs/mpsd-software-manager"
-literal "false"
-
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
@@ -773,7 +828,7 @@ erpretable algorithm.
 \begin_layout Standard
 
 \series bold
-Articles and Publications
+Articles
 \series default
 
 \begin_inset Newline newline
@@ -796,33 +851,6 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- • Senapati, T., 
-\series bold
-Karnad, A.K
-\series default
-.
- & Senapati, K.
- 
-\begin_inset CommandInset href
-LatexCommand href
-name "Phase biasing of a Josephson junction using Rashba–Edelstein effect. "
-target "https://doi.org/10.1038/s41467-023-42987-9"
-literal "false"
-
-\end_inset
-
- 
-\series bold
-Nature Communications
-\series default
- 14, 7415 (2023)
 \end_layout
 
 \begin_layout Labeling

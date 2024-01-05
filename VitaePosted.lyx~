@@ -251,6 +251,61 @@ literal "false"
 \begin_layout Standard
 
 \series bold
+Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ • Senapati, T., 
+\series bold
+Karnad, A.K
+\series default
+.
+ & Senapati, K.
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Phase biasing of a Josephson junction using Rashba–Edelstein effect. "
+target "https://doi.org/10.1038/s41467-023-42987-9"
+literal "false"
+
+\end_inset
+
+ 
+\series bold
+Nature Communications
+\series default
+ 14, 7415 (2023)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 Education
 \series default
 
@@ -758,8 +813,12 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
- • Mechanistic interpretability of Neural networks: reverse-engineering
- neural networks from the learned weights down to human-interpretable algorithm.
+ • 
+\series bold
+Mechanistic interpretability of Neural networks
+\series default
+: reverse-engineering neural networks from the learned weights down to human-int
+erpretable algorithm.
 \begin_inset VSpace -7pt
 \end_inset
 
@@ -769,7 +828,7 @@ literal "false"
 \begin_layout Standard
 
 \series bold
-Articles and Publications
+Articles
 \series default
 
 \begin_inset Newline newline
@@ -792,33 +851,6 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-\begin_inset space ~
-\end_inset
-
- • Senapati, T., 
-\series bold
-Karnad, A.K
-\series default
-.
- & Senapati, K.
- 
-\begin_inset CommandInset href
-LatexCommand href
-name "Phase biasing of a Josephson junction using Rashba–Edelstein effect. "
-target "https://doi.org/10.1038/s41467-023-42987-9"
-literal "false"
-
-\end_inset
-
- 
-\series bold
-Nature Communications
-\series default
- 14, 7415 (2023)
 \end_layout
 
 \begin_layout Labeling
