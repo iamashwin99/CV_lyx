@@ -1389,5 +1389,94 @@ literal "false"
 
 \end_layout
 
+\begin_layout Enumerate
+
+\noun on
+Prof.
+ Ram Shanker Patel
+\emph on
+ 
+\noun default
+(Master's Thesis supervisor)
+\begin_inset Newline newline
+\end_inset
+
+Professor 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Department of Physics
+\begin_inset Newline newline
+\end_inset
+
+BITS Pilani K K Birla Goa Campus, 
+\begin_inset Newline newline
+\end_inset
+
+NH 17B, Bypass, Road, Zuarinagar 
+\lang english
+–
+\lang american
+ 403726, Goa, India.
+\begin_inset Newline newline
+\end_inset
+
+Email:
+\begin_inset CommandInset href
+LatexCommand href
+name "rsp@goa.bits-pilani.ac.in"
+target "rsp@goa.bits-pilani.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+Martin Lang
+\emph on
+\noun default
+\lang english
+
+\begin_inset Newline newline
+\end_inset
+
+Scientist - SSU Computational Science
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Max Planck Institute for Structure and Dynamics of Matter 
+\begin_inset Newline newline
+\end_inset
+
+Luruper Chaussee 149 
+\begin_inset Newline newline
+\end_inset
+
+22761 Hamburg, Germany
+\begin_inset Newline newline
+\end_inset
+
+Email: 
+\begin_inset CommandInset href
+LatexCommand href
+name " martin.lang@mpsd.mpg.de"
+target " martin.lang@mpsd.mpg.de"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document

@@ -828,6 +828,12 @@ erpretable algorithm.
 \begin_layout Standard
 
 \series bold
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+
+\series bold
 Articles
 \series default
 
@@ -846,7 +852,7 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -10pt
 \end_inset
 
@@ -900,6 +906,11 @@ literal "false"
 \end_inset
 
  • Review articles on scientific and hobbyist instruments on element14.com
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1370,6 +1381,53 @@ Email:
 LatexCommand href
 name "dsuri@iisc.ac.in"
 target "dsuri@iisc.ac.in"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\noun on
+Prof.
+ Ram Shanker Patel
+\emph on
+ 
+\noun default
+(Master's Thesis supervisor)
+\begin_inset Newline newline
+\end_inset
+
+Professor 
+\begin_inset Newline newline
+\end_inset
+
+
+\emph default
+Department of Physics
+\begin_inset Newline newline
+\end_inset
+
+BITS Pilani K K Birla Goa Campus, 
+\begin_inset Newline newline
+\end_inset
+
+NH 17B, Bypass, Road, Zuarinagar 
+\lang english
+–
+\lang american
+ 403726, Goa, India.
+\begin_inset Newline newline
+\end_inset
+
+Email:
+\begin_inset CommandInset href
+LatexCommand href
+name "rsp@goa.bits-pilani.ac.in"
+target "rsp@goa.bits-pilani.ac.in"
 type "mailto:"
 literal "false"
 
