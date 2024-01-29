@@ -115,9 +115,10 @@ ashwin kumar karnad
 \noindent
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="2">
+<lyxtabular version="3" rows="2" columns="3">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -178,6 +179,34 @@ literal "false"
 
 \end_inset
 </cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\emph on
+\begin_inset Graphics
+	filename images/ORCIDiD.png
+	lyxscale 5
+	width 4mm
+
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "ORCIDiD"
+target "https://orcid.org/0000-0001-8162-1957"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
 </row>
 <row>
 <cell alignment="left" valignment="top" usebox="none">
@@ -227,6 +256,34 @@ literal "false"
 LatexCommand href
 name "iamashwin99"
 target "https://github.com/iamashwin99"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+\emph on
+\begin_inset Graphics
+	filename images/linkedin-logo.png
+	lyxscale 5
+	width 4mm
+
+\end_inset
+
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "Linkedin"
+target "https://www.linkedin.com/in/ashwinkumarkarnad/"
 literal "false"
 
 \end_inset
@@ -1189,12 +1246,9 @@ Computational
 Python
 \series default
  (pytest, numpy, pandas, xarray, scipy, plotting libraries) • Shell (bash,
- zsh, nu) • Git • LabVIEW • 
-\series bold
-LTspice
-\series default
- • \SpecialChar LaTeX
- • 3D CAD modeling (Onshape, Fusion 360) • PCB Design (Eagle CAD) • 
+ zsh, nu) • Git • LabVIEW • LTspice • Docker • \SpecialChar LaTeX
+ • 3D CAD modeling (Onshape,
+ Fusion 360) • PCB Design (Eagle CAD) • 
 \series bold
 Matlab
 \series default
