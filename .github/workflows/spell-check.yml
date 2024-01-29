@@ -20,8 +20,9 @@ jobs:
     - name: Check Spelling
       run: codespell --ignore-words=codespell.txt --skip="*.min.js,*.min.css" .
 
-    # Add a comprehensive grammar checker to the CI pipeline
-    - name: Install LanguageTool
-      run: sudo apt-get install -y languagetool
+    # Add a comprehensive grammar checker to the CI pipeline using gramma (npm package)
+    - name: Install gramma
+      run: npm install -g gramma
+
     - name: Check Grammar
-      run: languagetool --list --language en-US --mother-tongue en-US --autoDetect --enabledRules WHITESPACE_RULE,EN_QUOTES,COMMA_PARENTHESIS_WHITESPACE,EN_UNPAIRED_BRACKETS,ENGLISH_WORD_REPEAT_RULE,UPPERCASE_SENTENCE_START,EN_A_VS_AN,EN_COMPOUNDS,EN_QUOTES,ENGLISH_WORD_REPEAT_BEGINNING_RULE,E
+      run: gramma check VitaePosted.lyx
