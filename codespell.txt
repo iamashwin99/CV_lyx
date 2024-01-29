@@ -1,1 +1,2 @@
-nd # $102^{nd}$ isnt recognized by codespell
+# misses  $102^{nd}$
+nd
