@@ -1,4 +1,4 @@
-name: Check Spelling
+name: Check Grammar
 
 on: [push, pull_request]
 
