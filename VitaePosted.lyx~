@@ -187,16 +187,18 @@ literal "false"
 \size large
 \emph on
 \begin_inset Graphics
-	filename images/linkedin-logo.png
+	filename images/ORCIDiD.png
 	lyxscale 5
 	width 4mm
 
 \end_inset
 
  
+\emph default
+
 \begin_inset CommandInset href
 LatexCommand href
-name "ORCID"
+name "ORCIDiD"
 target "https://orcid.org/0000-0001-8162-1957"
 literal "false"
 
@@ -280,6 +282,8 @@ literal "false"
 \end_inset
 
  
+\emph default
+
 \begin_inset CommandInset href
 LatexCommand href
 name "Linkedin"
@@ -538,11 +542,20 @@ CBSE Board.
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset space ~
 \end_inset
 
  All India Rank in competitive examinations: TOEFL (score) 106/120, NGPE-
  Top 30, KVPY-55, UGC -CSIR NET 67
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1412,7 +1425,7 @@ Dr.
 
 
 \emph on
-Assistant Professort
+Assistant Professor
 \begin_inset Newline newline
 \end_inset
 

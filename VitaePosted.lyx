@@ -194,6 +194,8 @@ literal "false"
 \end_inset
 
  
+\emph default
+
 \begin_inset CommandInset href
 LatexCommand href
 name "ORCIDiD"
@@ -280,6 +282,8 @@ literal "false"
 \end_inset
 
  
+\emph default
+
 \begin_inset CommandInset href
 LatexCommand href
 name "Linkedin"
@@ -538,11 +542,20 @@ CBSE Board.
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset space ~
 \end_inset
 
  All India Rank in competitive examinations: TOEFL (score) 106/120, NGPE-
  Top 30, KVPY-55, UGC -CSIR NET 67
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1004,7 +1017,7 @@ height "1pt"
 \begin_inset CommandInset href
 LatexCommand href
 name "1st place, Rad-Daten-Hackathon"
-target "https://www.linkedin.com/posts/ashwin-kumar-k-4854b8121_hhackandride-veloberlin-activity-7060546241083895808-eq6w"
+target "https://www.linkedin.com/posts/ashwinkumarkarnad_hhackandride-veloberlin-activity-7060546241083895808-g4HI"
 literal "false"
 
 \end_inset
@@ -1412,7 +1425,7 @@ Dr.
 
 
 \emph on
-Assistant Professort
+Assistant Professor
 \begin_inset Newline newline
 \end_inset
 
