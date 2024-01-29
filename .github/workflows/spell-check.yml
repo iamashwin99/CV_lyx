@@ -19,10 +19,3 @@ jobs:
 
     - name: Check Spelling
       run: codespell --ignore-words=codespell.txt --skip="*.min.js,*.min.css" .
-
-    # Add a comprehensive grammar checker to the CI pipeline using gramma (npm package)
-    - name: Install gramma
-      run: npm install -g gramma
-
-    - name: Check Grammar
-      run: gramma check VitaePosted.lyx

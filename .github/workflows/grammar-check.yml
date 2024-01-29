@@ -1,0 +1,19 @@
+name: Check Spelling
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    # Add a comprehensive grammar checker to the CI pipeline using gramma (npm package)
+    - name: Install gramma
+      run: npm install -g gramma
+
+    - name: Install server
+      run: gramma server install
+
+    - name: Check Grammar
+      run: gramma check VitaePosted.lyx
