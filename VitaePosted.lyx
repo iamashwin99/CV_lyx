@@ -595,10 +595,23 @@ height "1pt"
 
  •
 \series bold
- Experimental and computational condensed matter physics (magnetism and
- superconductivity
+ Experimental and computational condensed matter physics 
 \series default
-).
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
+(magnetism and superconductivity
+\series default
+)
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Labeling
@@ -627,6 +640,178 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Honors and Awards
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -10pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 
+\begin_inset CommandInset href
+LatexCommand href
+name "2nd place, Kühne+Nagel and Google hackathon"
+target "https://www.linkedin.com/posts/adrian-baetu_ai-genai-cloud-activity-7114933026731503617-bacg?utm_source=share&utm_medium=member_desktop"
+literal "false"
+
+\end_inset
+
+: Created AutoQuote, an AI service that automatically replies to customer
+ email with a price quote for shipment requests.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 2nd place, ADLIFE hackathon: Created an LLM based solution to classify
+ statements in a medical guidelines into diagnostic, therapeutic, warning
+ remarks.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2023 
+\begin_inset CommandInset href
+LatexCommand href
+name "1st place, Rad-Daten-Hackathon"
+target "https://www.linkedin.com/posts/ashwinkumarkarnad_hhackandride-veloberlin-activity-7060546241083895808-g4HI"
+literal "false"
+
+\end_inset
+
+: worked on 
+\begin_inset CommandInset href
+LatexCommand href
+name "comfybikes.de"
+target "https://comfybikes.de/"
+literal "false"
+
+\end_inset
+
+ an app to suggest optimal saddle height for your bike using image detection.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022 
+\begin_inset CommandInset href
+LatexCommand href
+name "1st place, COMPAR EU hackathon"
+target "https://www.mpsd.mpg.de/653775/2022-10-hackathon-ssucs"
+literal "false"
+
+\end_inset
+
+: Created an AI-based solution for a data platform which helps patients
+ manage their serious chronic illness.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 National top 30 in NGPE-19 exam (Graduate physics exam with 11372 candidate
+s).
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2019 
+\begin_inset Formula $3^{rd}$
+\end_inset
+
+place in Open CBR Hackathon 
+\emph on
+organised by University of Leeds
+\emph default
+.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 Awarded Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 
+\series bold
+Fellowship by
+\emph on
+ Govt.
+ of India
+\series default
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 Offered Innovation in Science Pursuit for Inspired Research (INSPIRE)
+ 2017 Scholarship by
+\emph on
+ Govt.
+ of India
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 Awarded ISCA Travel award by 
+\emph on
+Infosys Foundation
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014-16 Participated in 
+\begin_inset Formula $103^{rd}$
+\end_inset
+
+ Indian Science Congress held at Mysore, India (2016); IRIS science fair
+ organised by 
+\emph on
+Intel
+\emph default
+ at Delhi, India (2016); Rashtriya Kishore Vaigyanik Sammelan of 
+\begin_inset Formula $102^{nd}$
+\end_inset
+
+ Indian Science Congress held at Mumbai, India (2015); 
+\begin_inset Formula $41^{st}$
+\end_inset
+
+ Jawaharlal Nehru National Science Exhibition at Chandigarh (2014) (Presenting
+ the device stated as 
+\begin_inset Quotes eld
+\end_inset
+
+A Novel Stove Stand”).
+ 
 \end_layout
 
 \begin_layout Standard
@@ -983,156 +1168,6 @@ literal "false"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Honors and Awards
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -10pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2023 
-\begin_inset CommandInset href
-LatexCommand href
-name "1st place, Rad-Daten-Hackathon"
-target "https://www.linkedin.com/posts/ashwinkumarkarnad_hhackandride-veloberlin-activity-7060546241083895808-g4HI"
-literal "false"
-
-\end_inset
-
-: worked on 
-\begin_inset CommandInset href
-LatexCommand href
-name "comfybikes.de"
-target "https://comfybikes.de/"
-literal "false"
-
-\end_inset
-
- an app to suggest optimal saddle height for your bike using image detection.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2022 
-\begin_inset CommandInset href
-LatexCommand href
-name "1st place, COMPAR EU hackathon"
-target "https://www.mpsd.mpg.de/653775/2022-10-hackathon-ssucs"
-literal "false"
-
-\end_inset
-
-: Created an AI-based solution for a data platform which helps patients
- manage their serious chronic illness.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2019 National top 30 in NGPE-19 exam (Graduate physics exam with 11372 candidate
-s).
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2019 
-\begin_inset Formula $3^{rd}$
-\end_inset
-
-place in Open CBR Hackathon 
-\emph on
-organised by University of Leeds
-\emph default
-.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2018 Awarded Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 
-\series bold
-Fellowship by
-\emph on
- Govt.
- of India
-\series default
-\emph default
-.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2018 Offered Innovation in Science Pursuit for Inspired Research (INSPIRE)
- 2017 Scholarship by
-\emph on
- Govt.
- of India
-\emph default
-.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2016 Awarded ISCA Travel award by 
-\emph on
-Infosys Foundation
-\emph default
-.
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2014-16 Participated in 
-\begin_inset Formula $103^{rd}$
-\end_inset
-
- Indian Science Congress held at Mysore, India (2016); IRIS science fair
- organised by 
-\emph on
-Intel
-\emph default
- at Delhi, India (2016); Rashtriya Kishore Vaigyanik Sammelan of 
-\begin_inset Formula $102^{nd}$
-\end_inset
-
- Indian Science Congress held at Mumbai, India (2015); 
-\begin_inset Formula $41^{st}$
-\end_inset
-
- Jawaharlal Nehru National Science Exhibition at Chandigarh (2014) (Presenting
- the device stated as 
-\begin_inset Quotes eld
-\end_inset
-
-A Novel Stove Stand”).
- 
 \end_layout
 
 \begin_layout Standard
