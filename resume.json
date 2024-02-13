@@ -1,0 +1,191 @@
+{
+    "basics": {
+        "name": "Ashwin Kumar K",
+        "email": "ashwin-kumar.karnad@mpsd.mpg.de",
+        "phone": "",
+        "website": "ashwinschronicles.github.io",
+        "address": ""
+    },
+    "education": [
+        {
+            "institution": "BITS - PILANI UNIVERSITY, INDIA",
+            "area": "Physics and Electronics and Instrumentation",
+            "additionalAreas": [],
+            "studyType": "Int. MSc. Physics and B.E Electronics and Instrumentation (Dual Major)",
+            "startDate": "2017",
+            "endDate": "2022",
+            "score": "7.71 / 10.0",
+            "location": "India"
+        },
+        {
+            "institution": "VVS GJ PU COLLEGE, MYSORE",
+            "area": "Class 12th",
+            "additionalAreas": [],
+            "studyType": "",
+            "startDate": "2015",
+            "endDate": "",
+            "score": "Physics - 100%, Chemistry - 96%, Mathematics - 99%",
+            "location": "Mysore, KSEB Board"
+        },
+        {
+            "institution": "DEMONSTRATION SCHOOL",
+            "area": "Class 10th",
+            "additionalAreas": [],
+            "studyType": "",
+            "startDate": "2013",
+            "endDate": "",
+            "score": "9.8/10 CGPA",
+            "location": "CBSE Board"
+        }
+    ],
+    "awards": [
+        {
+            "title": "2nd place, K\u00fchne+Nagel and Google hackathon: Created AutoQuote, an AI service for shipment requests",
+            "date": "2023",
+            "awarder": "K\u00fchne+Nagel and Google",
+            "summary": "Created AutoQuote, an AI service for shipment requests"
+        },
+        {
+            "title": "2nd place, ADLIFE hackathon: Created an LLM based solution for medical guidelines classification",
+            "date": "2023",
+            "awarder": "ADLIFE",
+            "summary": "Created an LLM based solution for medical guidelines classification"
+        },
+        {
+            "title": "1st place, Rad-Daten-Hackathon: Worked on comfybikes.de, an app for optimal saddle height suggestion",
+            "date": "2022",
+            "awarder": "Rad-Daten-Hackathon",
+            "summary": "Worked on comfybikes.de, an app for optimal saddle height suggestion"
+        },
+        {
+            "title": "1st place, COMPAR EU hackathon: Created an AI-based solution for chronic illness management",
+            "date": "2019",
+            "awarder": "COMPAR EU",
+            "summary": "Created an AI-based solution for chronic illness management"
+        },
+        {
+            "title": "National top 30 in NGPE-19 exam (Graduate physics exam with 11372 candidates)",
+            "date": "2019",
+            "awarder": "NGPE-19",
+            "summary": "Achieved national top 30 in NGPE-19 exam"
+        },
+        {
+            "title": "3rd place in Open CBR Hackathon organised by University of Leeds",
+            "date": "2018",
+            "awarder": "University of Leeds",
+            "summary": "Achieved 3rd place in Open CBR Hackathon"
+        },
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 Fellowship by Govt. of India",
+            "date": "2018",
+            "awarder": "Govt. of India",
+            "summary": "Received Kishore Vaigyanik Protsahan Yojana (KVPY) 2017 Fellowship"
+        },
+        {
+            "title": "INSPIRE 2017 Scholarship by Govt. of India",
+            "date": "2018",
+            "awarder": "Govt. of India",
+            "summary": "Received INSPIRE 2017 Scholarship"
+        },
+        {
+            "title": "ISCA Travel award by Infosys Foundation",
+            "date": "2016",
+            "awarder": "Infosys Foundation",
+            "summary": "Received ISCA Travel award"
+        }
+    ],
+    "projects": [
+        {
+            "name": "comfybikes.de",
+            "description": "An app for optimal saddle height suggestion",
+            "keywords": [
+                "app",
+                "saddle height",
+                "optimization"
+            ],
+            "url": ""
+        },
+        {
+            "name": "AutoQuote",
+            "description": "AI service for shipment requests",
+            "keywords": [
+                "AI",
+                "shipment",
+                "requests"
+            ],
+            "url": ""
+        },
+        {
+            "name": "LLM based solution for medical guidelines classification",
+            "description": "Created an LLM based solution for medical guidelines classification",
+            "keywords": [
+                "LLM",
+                "medical guidelines",
+                "classification"
+            ],
+            "url": ""
+        },
+        {
+            "name": "AI-based solution for chronic illness management",
+            "description": "Created an AI-based solution for chronic illness management",
+            "keywords": [
+                "AI",
+                "chronic illness",
+                "management"
+            ],
+            "url": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": [
+                "Python",
+                "Shell",
+                "Matlab",
+                "C++"
+            ]
+        },
+        {
+            "name": "Tools",
+            "keywords": [
+                "Git",
+                "Docker",
+                "LTspice",
+                "LabVIEW"
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "keywords": [
+                "pytest",
+                "numpy",
+                "pandas",
+                "scipy"
+            ]
+        },
+        {
+            "name": "Computer Proficiency",
+            "keywords": [
+                "LATEX",
+                "Onshape",
+                "Fusion 360",
+                "Eagle CAD"
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "MPI FOR THE STRUCTURE AND DYNAMICS OF MATTER",
+            "position": "Research Software Engineer",
+            "startDate": "2022",
+            "endDate": "2023",
+            "location": "Hamburg",
+            "highlights": [
+                "Provided computational scientific support and maintained HPC infrastructure",
+                "Contributed to the development of python packages like Postopus and mpsd-software-manager",
+                "Supported scientists in creating open-source, reproducible scientific software workflows"
+            ]
+        }
+    ]
+}
