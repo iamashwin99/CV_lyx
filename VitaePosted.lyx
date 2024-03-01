@@ -452,6 +452,75 @@ literal "false"
 \begin_layout Standard
 
 \series bold
+Skills
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -10pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Computational
+\series default
+: • 
+\series bold
+Python
+\series default
+ (pyVISA, pytest, numpy, pandas, xarray, scipy, plotting libraries) • Shell
+ (bash, zsh, nu) • Git • LabVIEW • LTspice • Docker • \SpecialChar LaTeX
+ • 3D CAD modeling
+ (Onshape, Fusion 360) • PCB Design (Eagle CAD) • 
+\series bold
+Matlab
+\series default
+ • JavaScript • C++ • Illustrations (Inkscape, Blender)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Instrumentation: 
+\series default
+• Photolithography • DC Magnetron sputtering • Physical Property Measurement
+ System (
+\series bold
+DCR
+\series default
+ and VSM) • 
+\series bold
+SEM, FIB and GIS
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 15pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 Education
 \series default
 
@@ -540,9 +609,13 @@ KSEB Board.
 \noun default
 CBSE Board.
  9.8/10 CGPA
-\end_layout
+\series bold
+\emph default
 
-\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset Note Note
 status open
 
@@ -573,7 +646,13 @@ status open
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
+
+\series bold
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 
 \series bold
 Interests
@@ -594,7 +673,7 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -8pt
 \end_inset
 
@@ -648,8 +727,18 @@ status open
 .
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -2pt
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -947,7 +1036,7 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 
  • GrayBlock Power: Decentralized financing of energy projects via smart
  contracts written on public blockchains.
- (Worrked as software developer and project coordinator)
+ (Worked as software developer and project coordinator)
 \end_layout
 
 \begin_layout Labeling
@@ -982,12 +1071,21 @@ literal "false"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset space ~
 \end_inset
 
  • Pressure sensitive mat: A mat that can sense touch, enabling the determinatio
 n of different poses such as Running, Jumping, one leg hop etc..
  ( Worked in electronics and algorithm design ).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
@@ -1266,75 +1364,6 @@ Electronics instruments & instrumentation technology
 
 \begin_layout Standard
 \begin_inset VSpace 5pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Skills
-\series default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace -10pt
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Computational
-\series default
-: • 
-\series bold
-Python
-\series default
- (pytest, numpy, pandas, xarray, scipy, plotting libraries) • Shell (bash,
- zsh, nu) • Git • LabVIEW • LTspice • Docker • \SpecialChar LaTeX
- • 3D CAD modeling (Onshape,
- Fusion 360) • PCB Design (Eagle CAD) • 
-\series bold
-Matlab
-\series default
- • JavaScript • C++ 
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Instrumentation: 
-\series default
-• Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (
-\series bold
-DCR
-\series default
- and VSM) • 
-\series bold
-SEM, FIB and GIS
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace 15pt
 \end_inset
 
 
