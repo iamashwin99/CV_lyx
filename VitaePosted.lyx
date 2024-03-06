@@ -493,7 +493,8 @@ Python
 \series bold
 Matlab
 \series default
- • JavaScript • C++ • Illustrations (Inkscape, Blender)
+ • JavaScript • C++ • Illustrations (Inkscape, Blender) •CI/CD (Gitlab CI,
+ buildbot, Github CI)
 \end_layout
 
 \begin_layout Standard
