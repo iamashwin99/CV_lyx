@@ -18,4 +18,4 @@ jobs:
       run: gem install awesome_bot
 
     - name: Check URLs
-      run: awesome_bot --allow-redirect --allow-dupe --allow-timeout --set-timeout 5 --white-list localhost,**/*.lyx VitaePosted.lyx
+      run: awesome_bot --allow-redirect --allow-dupe --allow-timeout --set-timeout 5 --white-list localhost,**/*.lyx *.lyx
