@@ -481,6 +481,23 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
+Instrumentation: 
+\series default
+• Photolithography • DC Magnetron sputtering • Physical Property Measurement
+ System (
+\series bold
+DCR
+\series default
+ and VSM) • 
+\series bold
+SEM, FIB 
+\series default
+and GIS
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 Computational
 \series default
 : • 
@@ -496,21 +513,6 @@ Matlab
 \series default
  • JavaScript • C++ • Illustrations (Inkscape, Blender) •CI/CD (Gitlab CI,
  buildbot, Github CI)
-\end_layout
-
-\begin_layout Standard
-
-\series bold
-Instrumentation: 
-\series default
-• Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (
-\series bold
-DCR
-\series default
- and VSM) • 
-\series bold
-SEM, FIB and GIS
 \end_layout
 
 \begin_layout Standard
@@ -1185,7 +1187,7 @@ literal "false"
 
  • 
 \series bold
-Mechanistic interpretability of Neural networks
+Mechanistic interpret-ability of Neural networks
 \series default
 : reverse-engineering neural networks from the learned weights down to human-int
 erpretable algorithm.
@@ -1335,8 +1337,12 @@ Atomic and molecular Physics
 \series bold
 Quantum Information and Computing
 \series default
- • Quantum Information Theory • Electromagnetic theory I&II • Classical
- Mechanics • Statistical Mechanics 
+ •
+\series bold
+ Quantum Information Theory
+\series default
+ • Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
+ 
 \end_layout
 
 \begin_layout Standard
