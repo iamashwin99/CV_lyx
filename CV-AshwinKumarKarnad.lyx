@@ -1,5 +1,5 @@
-#LyX 2.3 created this file. For more info see http://www.lyx.org/
-\lyxformat 544
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -14,13 +14,16 @@
 \pagestyle{fancy}
 \chead{\textit{Ashwin Kumar K · Curriculum Vitae · Last updated - \today} }
 \usepackage{mathpazo}
+% Added by lyx2lyx
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
 \end_preamble
 \use_default_options false
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language american
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding auto-legacy
+\fontencoding auto
 \font_roman "default" "default"
 \font_sans "default" "default"
 \font_typewriter "default" "default"
@@ -28,7 +31,9 @@
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \use_microtype false
@@ -41,7 +46,7 @@
 \paperfontsize 11
 \spacing single
 \use_hyperref false
-\papersize letterpaper
+\papersize letter
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 2
@@ -62,7 +67,9 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_formatted_ref 0
 \use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -73,8 +80,8 @@
 \bottommargin 0.6in
 \secnumdepth 3
 \tocdepth 3
-\paragraph_separation skip
-\defskip medskip
+\paragraph_separation indent
+\paragraph_indentation default
 \is_math_indent 0
 \math_numbering_side default
 \quotes_style english
@@ -82,11 +89,16 @@
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -138,8 +150,8 @@ ashwin kumar karnad
  
 \begin_inset CommandInset href
 LatexCommand href
-name "ashwin-kumar.karnad@mpsd.mpg.de"
-target "ashwin-kumar.karnad@mpsd.mpg.de"
+name "a.karnad@fz-jeulich.de"
+target "a.karnad@fz-jeulich.de"
 type "mailto:"
 literal "false"
 
@@ -225,7 +237,8 @@ literal "false"
 
 \end_inset
 
- Webpage: 
+ Webpage:
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwinschronicles.github.io"
@@ -253,7 +266,8 @@ literal "false"
 
 \end_inset
 
- Github: 
+ Github:
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "iamashwin99"
@@ -342,12 +356,16 @@ height "1pt"
 \begin_inset space ~
 \end_inset
 
- • Senapati, T., 
+ • Senapati,
+ T.,
+ 
 \series bold
-Karnad, A.K
+Karnad,
+ A.K
 \series default
 .
- & Senapati, K.
+ & Senapati,
+ K.
  
 \begin_inset CommandInset href
 LatexCommand href
@@ -361,7 +379,8 @@ literal "false"
 \series bold
 Nature Communications
 \series default
- 14, 7415 (2023)
+ 14,
+ 7415 (2023)
 \end_layout
 
 \begin_layout Standard
@@ -394,15 +413,44 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2022-24 
+2024- 
+\noun on
+Forschungszentrum Jülich
+\noun default
+,
+ Jülich:
+
 \emph on
-Research Software Engineer
+ 
+\begin_inset Newline newline
+\end_inset
+
+Research / Quantum Software Engineer
 \emph default
-, 
+ 
+\begin_inset Newline newline
+\end_inset
+
+Worked on Quantum computer (QPU) and HPC integration.
+ Infrastructure to access QPUs including authentication.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2022-24 
 \noun on
 MPI for the Structure and Dynamics of Matter
 \noun default
-, Hamburg.
+,
+ Hamburg:
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Research Software Engineer
+\emph default
+.
 \begin_inset Newline newline
 \end_inset
 
@@ -410,7 +458,8 @@ Worked on
 \series bold
 Computational Scientific support
 \series default
-, massively parallel
+,
+ massively parallel
 \series bold
  HPC codes
 \series default
@@ -422,12 +471,15 @@ HPC
 \series bold
 infrastructure
 \series default
- maintenance (hardware and software), Linux system administration, managed
- CI/CD infrastructure, contributed to the 
+ maintenance (hardware and software),
+ Linux system administration,
+ managed CI/CD infrastructure,
+ contributed to the 
 \series bold
 development of python packages
 \series default
- like: 
+ like:
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "Postopus"
@@ -436,7 +488,8 @@ literal "false"
 
 \end_inset
 
- - POSTprocessing of OctoPUS simulations; 
+ - POSTprocessing of OctoPUS simulations;
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "mpsd-software-manager"
@@ -446,8 +499,8 @@ literal "false"
 \end_inset
 
 .
- Supported scientists in creating open-source, reproducible scientific simulatio
-ns.
+ Supported scientists in creating open-source,
+ reproducible scientific simulations.
 \end_layout
 
 \begin_layout Standard
@@ -481,16 +534,17 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
-Instrumentation: 
+Instrumentation:
+ 
 \series default
-• Photolithography • DC Magnetron sputtering • Physical Property Measurement
- System (
+• Photolithography • DC Magnetron sputtering • Physical Property Measurement System (
 \series bold
 DCR
 \series default
  and VSM) • 
 \series bold
-SEM, FIB 
+SEM,
+ FIB 
 \series default
 and GIS
 \end_layout
@@ -500,19 +554,29 @@ and GIS
 \series bold
 Computational
 \series default
-: • 
+:
+ • 
 \series bold
 Python
 \series default
- (pyVISA, pytest, numpy, pandas, xarray, scipy, plotting libraries) • Shell
- (bash, zsh, nu) • Git • LabVIEW • LTspice • Docker • \SpecialChar LaTeX
- • 3D CAD modeling
- (Onshape, Fusion 360) • PCB Design (Eagle CAD) • 
+ (pyVISA,
+ pytest,
+ numpy,
+ pandas,
+ xarray,
+ scipy,
+ plotting libraries) • Shell (bash,
+ zsh,
+ nu) • Git • LabVIEW • LTspice • Docker • \SpecialChar LaTeX
+ • 3D CAD modeling (Onshape,
+ Fusion 360) • PCB Design (Eagle CAD) • 
 \series bold
 Matlab
 \series default
- • JavaScript • C++ • Illustrations (Inkscape, Blender) •CI/CD (Gitlab CI,
- buildbot, Github CI)
+ • JavaScript • C++ • Illustrations (Inkscape,
+ Blender) •CI/CD (Gitlab CI,
+ buildbot,
+ Github CI)
 \end_layout
 
 \begin_layout Standard
@@ -554,7 +618,8 @@ height "1pt"
 \labelwidthstring 00.00.0000
 
 \noun on
-2022 bits - pilani university, India
+2022 bits - pilani university,
+ India
 \noun default
  
 \begin_inset Newline newline
@@ -581,7 +646,8 @@ MSc.
 \labelwidthstring 00.00.0000
 
 \noun on
-2017 vvs gj pu college, mysore - class 
+2017 vvs gj pu college,
+ mysore - class 
 \begin_inset Formula $12^{th}$
 \end_inset
 
@@ -593,7 +659,10 @@ MSc.
 \emph on
 \noun default
 KSEB Board.
- Marks : Physics - 100%, Chemistry - 96 %, Mathematics 99%
+ Marks :
+ Physics - 100%,
+ Chemistry - 96 %,
+ Mathematics 99%
 \end_layout
 
 \begin_layout Labeling
@@ -641,8 +710,11 @@ status open
 \begin_inset space ~
 \end_inset
 
- All India Rank in competitive examinations: TOEFL (score) 106/120, NGPE-
- Top 30, KVPY-55, UGC -CSIR NET 67
+ All India Rank in competitive examinations:
+ TOEFL (score) 106/120,
+ NGPE- Top 30,
+ KVPY-55,
+ UGC -CSIR NET 67
 \end_layout
 
 \end_inset
@@ -715,8 +787,10 @@ status open
 \begin_inset space ~
 \end_inset
 
- • Instrument design, Electrical drive system, Interfacing sensors with
- microcontrollers, Power management.
+ • Instrument design,
+ Electrical drive system,
+ Interfacing sensors with microcontrollers,
+ Power management.
 \end_layout
 
 \begin_layout Labeling
@@ -787,15 +861,18 @@ literal "false"
 
 \end_inset
 
-: Created AutoQuote, an AI service that automatically replies to customer
- email with a price quote for shipment requests.
+:
+ Created AutoQuote,
+ an AI service that automatically replies to customer email with a price quote for shipment requests.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2023 2nd place, ADLIFE hackathon: Created an LLM based solution to classify
- statements in a medical guidelines into diagnostic, therapeutic, warning
- remarks.
+2023 2nd place,
+ ADLIFE hackathon:
+ Created an LLM based solution to classify statements in a medical guidelines into diagnostic,
+ therapeutic,
+ warning remarks.
 \end_layout
 
 \begin_layout Labeling
@@ -809,7 +886,8 @@ literal "false"
 
 \end_inset
 
-: worked on 
+:
+ worked on 
 \begin_inset CommandInset href
 LatexCommand href
 name "comfybikes.de"
@@ -832,14 +910,13 @@ literal "false"
 
 \end_inset
 
-: Created an AI-based solution for a data platform which helps patients
- manage their serious chronic illness.
+:
+ Created an AI-based solution for a data platform which helps patients manage their serious chronic illness.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2019 National top 30 in NGPE-19 exam (Graduate physics exam with 11372 candidate
-s).
+2019 National top 30 in NGPE-19 exam (Graduate physics exam with 11372 candidates).
  
 \end_layout
 
@@ -872,8 +949,7 @@ Fellowship by
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2018 Offered Innovation in Science Pursuit for Inspired Research (INSPIRE)
- 2017 Scholarship by
+2018 Offered Innovation in Science Pursuit for Inspired Research (INSPIRE) 2017 Scholarship by
 \emph on
  Govt.
  of India
@@ -898,21 +974,25 @@ Infosys Foundation
 \begin_inset Formula $103^{rd}$
 \end_inset
 
- Indian Science Congress held at Mysore, India (2016); IRIS science fair
- organised by 
+ Indian Science Congress held at Mysore,
+ India (2016);
+ IRIS science fair organised by 
 \emph on
 Intel
 \emph default
- at Delhi, India (2016); Rashtriya Kishore Vaigyanik Sammelan of 
+ at Delhi,
+ India (2016);
+ Rashtriya Kishore Vaigyanik Sammelan of 
 \begin_inset Formula $102^{nd}$
 \end_inset
 
- Indian Science Congress held at Mumbai, India (2015); 
+ Indian Science Congress held at Mumbai,
+ India (2015);
+ 
 \begin_inset Formula $41^{st}$
 \end_inset
 
- Jawaharlal Nehru National Science Exhibition at Chandigarh (2014) (Presenting
- the device stated as 
+ Jawaharlal Nehru National Science Exhibition at Chandigarh (2014) (Presenting the device stated as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -972,9 +1052,13 @@ literal "false"
 
 
 \series default
-, at 
+,
+ at 
 \emph on
-Superconductivity lab, NISER, Bhubaneswar, India.
+Superconductivity lab,
+ NISER,
+ Bhubaneswar,
+ India.
 \end_layout
 
 \begin_layout Labeling
@@ -996,7 +1080,10 @@ literal "false"
 
 
 \series default
-, NISER, Bhubaneswar, India.
+,
+ NISER,
+ Bhubaneswar,
+ India.
 \end_layout
 
 \begin_layout Labeling
@@ -1016,7 +1103,9 @@ literal "false"
 .
  
 \emph on
-Kaynes Technology India Pvt Limited, Mysore, India
+Kaynes Technology India Pvt Limited,
+ Mysore,
+ India
 \emph default
 .
 \end_layout
@@ -1028,7 +1117,9 @@ Kaynes Technology India Pvt Limited, Mysore, India
 
  • Simulation of IR seeker missiles and its counter measure in 
 \emph on
-Defence Avionics Research Establishment - DRDO, Bangalore, India
+Defence Avionics Research Establishment - DRDO,
+ Bangalore,
+ India
 \emph default
 .
 \end_layout
@@ -1038,8 +1129,8 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- • GrayBlock Power: Decentralized financing of energy projects via smart
- contracts written on public blockchains.
+ • GrayBlock Power:
+ Decentralized financing of energy projects via smart contracts written on public blockchains.
  (Worked as software developer and project coordinator)
 \end_layout
 
@@ -1048,9 +1139,10 @@ Defence Avionics Research Establishment - DRDO, Bangalore, India
 \begin_inset space ~
 \end_inset
 
- • Team Imitato: Designing an exosuit to control a humanoid that can be
- beneficial in reaching in-accessible and non-human conditions.
- (Worked as Electronics, Communication and Haptics Control head) 
+ • Team Imitato:
+ Designing an exosuit to control a humanoid that can be beneficial in reaching in-accessible and non-human conditions.
+ (Worked as Electronics,
+ Communication and Haptics Control head) 
 \end_layout
 
 \begin_layout Labeling
@@ -1067,8 +1159,8 @@ literal "false"
 
 \end_inset
 
-: Designed and built a contraption to harness electricity (about 20W) from
- the otherwise wasted heat energy produced while burning LPG gas for cooking.
+:
+ Designed and built a contraption to harness electricity (about 20W) from the otherwise wasted heat energy produced while burning LPG gas for cooking.
  It also reduced the cooking time.
  
 \end_layout
@@ -1082,8 +1174,11 @@ status open
 \begin_inset space ~
 \end_inset
 
- • Pressure sensitive mat: A mat that can sense touch, enabling the determinatio
-n of different poses such as Running, Jumping, one leg hop etc..
+ • Pressure sensitive mat:
+ A mat that can sense touch,
+ enabling the determination of different poses such as Running,
+ Jumping,
+ one leg hop etc..
  ( Worked in electronics and algorithm design ).
 \end_layout
 
@@ -1132,7 +1227,8 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
- For more completed projects visit my web page, 
+ For more completed projects visit my web page,
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "ashwinschronicles.github.io"
@@ -1175,9 +1271,9 @@ literal "false"
 \end_inset
 
 :
+
 \series default
- A simple and smart app that helps you find the optimal saddle height for
- your bike using image detection techniques.
+ A simple and smart app that helps you find the optimal saddle height for your bike using image detection techniques.
 \end_layout
 
 \begin_layout Labeling
@@ -1189,8 +1285,8 @@ literal "false"
 \series bold
 Mechanistic interpret-ability of Neural networks
 \series default
-: reverse-engineering neural networks from the learned weights down to human-int
-erpretable algorithm.
+:
+ reverse-engineering neural networks from the learned weights down to human-interpretable algorithm.
 \begin_inset VSpace -7pt
 \end_inset
 
@@ -1244,10 +1340,12 @@ Algorithms in ancient Indian Mathematics and Astronomy” at
 \begin_inset Quotes eld
 \end_inset
 
-National Conference on Ancient Indian Knowledge: Science and Technology
- 2018”, 
+National Conference on Ancient Indian Knowledge:
+ Science and Technology 2018”,
+ 
 \emph on
-National Council of Educational Research and Training, New Delhi
+National Council of Educational Research and Training,
+ New Delhi
 \emph default
 .
  
@@ -1267,7 +1365,10 @@ literal "false"
 
 \end_inset
 
-, 18(7): 28–29, Apr.
+,
+ 18(7):
+ 28–29,
+ Apr.
  2016.
  
 \end_layout
@@ -1317,6 +1418,7 @@ height "1pt"
 
 \noun on
 Physics :
+
 \series bold
 \noun default
  
@@ -1341,14 +1443,14 @@ Quantum Information and Computing
 \series bold
  Quantum Information Theory
 \series default
- • Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics
- 
+ • Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics 
 \end_layout
 
 \begin_layout Standard
 
 \noun on
 Electronics :
+
 \series bold
 \noun default
  
@@ -1357,9 +1459,7 @@ Electronics :
 \series bold
 Analog and Digital VLSI design
 \series default
- • Microelectronics • Microprocessors and interfacing • Digital circuits
- • Electric Machines • Signals and Systems • Control Systems • Digital Image
- Processing • Modern Control Systems • 
+ • Microelectronics • Microprocessors and interfacing • Digital circuits • Electric Machines • Signals and Systems • Control Systems • Digital Image Processing • Modern Control Systems • 
 \series bold
 Transducers and measurement techniques 
 \series default
@@ -1427,7 +1527,8 @@ School of Physical Sciences
 \begin_inset Newline newline
 \end_inset
 
-National Institute of Science Education and Research, 
+National Institute of Science Education and Research,
+ 
 \begin_inset Newline newline
 \end_inset
 
@@ -1435,7 +1536,9 @@ Bhubaneswar
 \lang english
 –
 \lang american
- 752050, Odisha, India.
+ 752050,
+ Odisha,
+ India.
 \begin_inset Newline newline
 \end_inset
 
@@ -1461,7 +1564,7 @@ Prof.
  Hans Fangohr
 \emph on
 \noun default
- (Current Supervisor)
+ (Previous Supervisor)
 \begin_inset Newline newline
 \end_inset
 
@@ -1479,11 +1582,13 @@ Luruper Chaussee 149
 \begin_inset Newline newline
 \end_inset
 
-22761 Hamburg, Germany
+22761 Hamburg,
+ Germany
 \begin_inset Newline newline
 \end_inset
 
-Email: 
+Email:
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "hans.fangohr@mpsd.mpg.de"
@@ -1526,11 +1631,14 @@ Indian Institute of Science,
 \begin_inset Newline newline
 \end_inset
 
-Bangalore, Karnataka, India.
+Bangalore,
+ Karnataka,
+ India.
 \begin_inset Newline newline
 \end_inset
 
-Email: 
+Email:
+ 
 \begin_inset CommandInset href
 LatexCommand href
 name "dsuri@iisc.ac.in"
