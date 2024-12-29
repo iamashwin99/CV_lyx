@@ -506,6 +506,12 @@ literal "false"
 \begin_layout Standard
 
 \series bold
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\series bold
 Skills
 \series default
 
@@ -524,14 +530,14 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -10pt
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Instrumentation:
@@ -549,7 +555,7 @@ SEM,
 and GIS
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Computational
@@ -579,8 +585,13 @@ Matlab
  Github CI)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace 15pt
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -1001,6 +1012,10 @@ A Novel Stove Stand”).
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 
 \series bold
 Projects and Experiences
@@ -1021,14 +1036,14 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -5pt
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Past Projects
@@ -1248,7 +1263,7 @@ literal "false"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 Ongoing Projects
@@ -1288,6 +1303,11 @@ Mechanistic interpret-ability of Neural networks
 :
  reverse-engineering neural networks from the learned weights down to human-interpretable algorithm.
 \begin_inset VSpace -7pt
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
@@ -1388,6 +1408,12 @@ literal "false"
 
 \begin_layout Standard
 
+\lang english
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
+
 \series bold
 Relevant Coursework
 \series default
@@ -1407,14 +1433,14 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -10pt
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \noun on
 Physics :
@@ -1446,7 +1472,7 @@ Quantum Information and Computing
  • Electromagnetic theory I&II • Classical Mechanics • Statistical Mechanics 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \noun on
 Electronics :
@@ -1470,14 +1496,14 @@ Electronics instruments & instrumentation technology
 • Object Oriented Programming
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace 5pt
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \series bold
 List of Referees 
@@ -1498,7 +1524,7 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset VSpace -10pt
 \end_inset
 
@@ -1645,6 +1671,11 @@ name "dsuri@iisc.ac.in"
 target "dsuri@iisc.ac.in"
 type "mailto:"
 literal "false"
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
